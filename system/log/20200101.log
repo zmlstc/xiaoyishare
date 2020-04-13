@@ -1,0 +1,12 @@
+[2020-01-01 13:00:59] /api/mobile/index.php/connect/wxlogin ( w=connect&t=wxlogin ) 
+ERR: -url--https://api.weixin.qq.com/sns/jscode2session?appid=wx913c5f6d1a789dc1&secret=a7ea7fe537edbdf19c9d491ff196fd6e&js_code=043wTjh71yjurO1YOVh71TJqh71wTjhb&grant_type=authorization_code
+[2020-01-01 13:00:59] /api/mobile/index.php/connect/wxlogin ( w=connect&t=wxlogin ) 
+ERR: -url--https://api.weixin.qq.com/sns/jscode2session?appid=wx913c5f6d1a789dc1&secret=a7ea7fe537edbdf19c9d491ff196fd6e&js_code=023rd0YE1KEjn50ced1F1TpoYE1rd0YZ&grant_type=authorization_code
+[2020-01-01 13:00:59] /api/mobile/index.php/connect/wxlogin ( w=connect&t=wxlogin ) 
+ERR: -url--https://api.weixin.qq.com/sns/jscode2session?appid=wx913c5f6d1a789dc1&secret=a7ea7fe537edbdf19c9d491ff196fd6e&js_code=023FCZwE0JwQLi25UeyE0WdXwE0FCZw2&grant_type=authorization_code
+[2020-01-01 13:01:00] /api/mobile/index.php/connect/wxlogin ( w=connect&t=wxlogin ) 
+ERR: ---{"session_key":"jhuX5PatJzY\/cqfEv+R93Q==","openid":"odKIv5YJxuNVP5dwuG7XYqdpaOyc"}
+[2020-01-01 13:01:00] /api/mobile/index.php/connect/wxlogin ( w=connect&t=wxlogin ) 
+ERR: ---{"session_key":"jhuX5PatJzY\/cqfEv+R93Q==","openid":"odKIv5YJxuNVP5dwuG7XYqdpaOyc"}
+[2020-01-01 13:01:00] /api/mobile/index.php/connect/wxlogin ( w=connect&t=wxlogin ) 
+ERR: ---{"session_key":"jhuX5PatJzY\/cqfEv+R93Q==","openid":"odKIv5YJxuNVP5dwuG7XYqdpaOyc"}

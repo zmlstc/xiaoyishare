@@ -1,0 +1,225 @@
+.mian {color: #666666; font-size:30upx;display: flex;flex-direction: column;justify-content:center;}
+.yes {background: #00BAAD;color: #FFF;}
+.no {background: #999;color: #333;}
+
+.bottom-nav{height: 110upx;width: 90%; padding:10upx 5%; border-top: #cccccc 1px solid; position: fixed; bottom: 0; z-index:999;}
+.bottom-nav .mian{height: 80upx;width:30%; margin-right:2%;float: left;}
+.bottom-nav .mian .index{width:100%;height:78upx;background: url('https://www.fhlego.com/static/b_logo_2.png') center no-repeat; background-size:30%;}
+.bottom-nav .mian .find{width:100%;height:78upx;background: url('https://www.fhlego.com/static/b_fand_2.png') center no-repeat; background-size:30%;}
+.bottom-nav .mian .my{width:100%;height:78upx;background: url('https://www.fhlego.com/static/b_member.png') center no-repeat; background-size:30%;}
+.bottom-nav .mian .title{width:100%;height:28upx;text-align: center;font-size: 28upx;}
+
+.place{height:120upx;margin: 0;padding: 0;}
+.top-nav{height:68upx;line-height: 68upx;width:94%; padding:24upx 3% 18upx; position: fixed; top:0; z-index:999;}
+.top-nav .back{height:64upx;width:8%;background: url('https://www.fhlego.com/static/arrow_back.png') center no-repeat; background-size:60%;float: left;}
+.top-nav .back2{height:64upx;width:8%;background: url('https://www.fhlego.com/static/back-w.png') center no-repeat; background-size:100%;float: left;}
+.top-nav .set{height:64upx;width:10%;background: url('https://www.fhlego.com/static/setting-w.png') center no-repeat; background-size:80%;float: left;}
+.top-nav .notice{height:64upx;width:10%;background: url('https://www.fhlego.com/static/remind_w2.png') center no-repeat; background-size:70%;float: left;}
+.top-nav .title{width:78%;height:64upx;line-height: 64upx;float:left;text-align: center;font-size:32upx;font-weight:300;}
+.top-nav .text {width:10%;line-height:64upx;float: right;text-align: center;color: #00BAAD;}
+.top-nav .add {width:10%;line-height:64upx;float: right;text-align: center;color: #00BAAD;font-size:48upx;}
+
+.set-nav {height:68upx;line-height: 68upx;width:94%; padding:20upx 3%;position: fixed; top:0; z-index:999;}
+.set-nav .set{height:64upx;width:10%;background: url('https://www.fhlego.com/static/setting-w.png') center no-repeat; background-size:80%;float: left;}
+.set-nav .notice{height:64upx;width:10%;background: url('https://www.fhlego.com/static/remind_w2.png') center no-repeat; background-size:70%;float: right;}
+
+.btn-nav{width:80%;overflow: hidden;margin: 40upx 10% 0;}
+.btn{width:80%;height:86upx;line-height: 86upx;text-align:center;color: #FFFFFF;margin:0 auto;background-color: #00BAAD;border-radius:16upx;font-size: 28upx;}
+.btn-hover{width:80%;height:86upx;line-height: 86upx;text-align:center;color: #FFFFFF;margin:0 auto;background-color: #00a99d;border-radius:16upx;}
+.buybtn{width:70%;text-align:center;color: #FFFFFF;line-height:36upx;background-color: #00BAAD;border-radius:8upx;padding:20upx}
+.cbtn{width:35%;text-align:center;color: #FFFFFF;line-height:36upx;border-radius:16upx;padding:20upx 30upx;}
+
+.tips{width:90%;color: #999999;font-size:28upx;line-height:38upx;padding:20upx 5%;}
+.tips .icon{height:48upx;width:48upx;background: url('https://www.fhlego.com/static/tip.png') center no-repeat; background-size:80%;float:left;}
+.warn{width:100%;height:64upx;color:#00BAAD;font-size:28upx;text-align: center;}
+
+.separator{height:2upx; border-top:2upx solid #ccc; text-align: center;}
+.separator span{position: relative; top:-24upx; background: #fff; padding: 0 20upx;color:#999;}
+
+.pl-class{color: #9e9e9e;font-size:28upx;}
+.pl-tx{color: #9e9e9e;font-size:36upx;font-weight:normal}
+
+/*  重写 checkbox 样式  */
+/* 未选中的 背景样式 */
+checkbox .wx-checkbox-input{
+   border-radius: 50%;/* 圆角 */
+   width:30rpx; /* 背景的宽 */
+   height:30rpx; /* 背景的高 */
+}
+/* 选中后的 背景样式 （红色背景 无边框 可根据UI需求自己修改） */
+checkbox .wx-checkbox-input.wx-checkbox-input-checked{
+   border:#00BAAD 2upx solid;
+   background: #00BAAD;
+}
+/* 选中后的 对勾样式 （白色对勾 可根据UI需求自己修改） */
+checkbox .wx-checkbox-input.wx-checkbox-input-checked::before{
+   border-radius: 50%;/* 圆角 */
+   width:30rpx;/* 选中后对勾大小，不要超过背景的尺寸 */
+   height:30rpx;/* 选中后对勾大小，不要超过背景的尺寸 */
+   line-height:30rpx;
+   text-align: center;
+   font-size:20rpx; /* 对勾大小 30rpx */
+   color:#fff; /* 对勾颜色 白色 */
+   background:transparent;
+   transform:translate(-50%, -50%) scale(1);
+   -webkit-transform:translate(-50%, -50%) scale(1);
+}
+
+/*  重写 radio 样式  */
+/* 未选中的 背景样式 */
+radio .wx-radio-input{
+   border-radius: 50%;/* 圆角 */
+   width: 40rpx;
+   height: 40rpx;
+}
+/* 选中后的 背景样式 （红色背景 无边框 可根据UI需求自己修改） */
+radio .wx-radio-input.wx-radio-input-checked{
+   border: none;
+   background: red;
+}
+/* 选中后的 对勾样式 （白色对勾 可根据UI需求自己修改） */
+radio .wx-radio-input.wx-radio-input-checked::before{
+   border-radius: 50%;/* 圆角 */
+   width: 40rpx; /* 选中后对勾大小，不要超过背景的尺寸 */
+   height: 40rpx; /* 选中后对勾大小，不要超过背景的尺寸 */
+   line-height: 40rpx;
+   text-align: center;
+   font-size:30rpx; /* 对勾大小 30rpx */
+   color:#fff; /* 对勾颜色 白色 */
+   background: transparent;
+   transform:translate(-50%, -50%) scale(1);
+   -webkit-transform:translate(-50%, -50%) scale(1);
+}
+
+/*常规控制样式*/
+.clip{overflow: hidden;text-overflow: ellipsis;white-space: nowrap;}
+.clip-2{display:-webkit-box;overflow:hidden;text-overflow:ellipsis;-webkit-line-clamp:2;-webkit-box-orient:vertical;}
+.t-l {border-bottom: #CCCCCC 2upx solid;}
+.b-line {border-bottom: #EEEEEE 2upx solid;}
+.t-line {border-top: #EEEEEE 2upx solid;}
+.l-line {border-left: #EEEEEE 2upx solid;}
+.r-line {border-right: #EEEEEE 2upx solid;}
+.all-line{border: #EEEEEE 2upx solid;}
+.all-line-dot{border: #ccc 2upx dashed;}
+.pt20 {padding-top:40upx;}
+.pt40 {padding-top:80upx;}
+.w10{width: 10%;}
+.w15{width: 15%;}
+.w20{width: 20%;}
+.w30{width: 30%;}
+.w40{width: 40%;}
+.w50{width: 50%;}
+.w80{width: 80%;}
+.mc {margin:0 auto;}
+.mt5 {margin-top: 10upx;}
+.mt10 {margin-top: 20upx;}
+.mt12 {margin-top: 24upx;}
+.mt20 {margin-top: 40upx;}
+.mt40 {margin-top: 80upx;}
+.mb2 {margin-bottom: 4upx;}
+.mb5 {margin-bottom: 10upx;}
+.mb10 {margin-bottom: 20upx;}
+.mb20 {margin-bottom: 40upx;}
+.mb30 {margin-bottom: 60upx;}
+.mb40 {margin-bottom: 80upx;}
+.ml5 {margin-left: 10upx;}
+.ml10 {margin-left: 20upx;}
+.ml15 {margin-left: 30upx;}
+.ml20 {margin-left: 40upx;}
+.ml30 {margin-left: 60upx;}
+.ml40 {margin-left: 80upx;}
+.bf {background:#FFFFFF;}
+.bg-color2 {background:#EEEEEE;}
+.bg-color3 {background:#00BAAD;}
+.f-color{color:#FFFFFF;}
+.clear{clear:both} 
+.fl{float: left;}
+.fr{float: right;}
+.font-l{text-align: left;}
+.font-r{text-align: right;}
+.fc{text-align: center;}
+/*操作控制栏样式begin*/
+.action-bar{width:94%;height:68upx; padding:10upx 3%;}
+/*.action-bar .addr{width:20%;float: left;line-height:68upx;}*/
+.action-bar .sort{width:30%;height:52upx;line-height: 52upx;}
+
+/*通用顶部左右栏样式begin*/
+.search{width:90%;height:64upx;padding:30upx 5%;}
+
+.comment{width:50.2%;height:64upx;padding:30upx 25%;}
+.comment .left-nav{width:184upx;height:64upx;line-height:64upx;background-color:#00BAAD;border: #00BAAD 2upx solid;float:left;border-radius: 40upx 0 0 40upx;text-align: center;color: #FFFFFF;}
+.comment .right-nav{width:184upx;height:64upx;line-height:64upx;border: #00BAAD 2upx solid;float:right;border-radius:0 40upx 40upx 0;text-align: center;color: #00BAAD;background: #FFFFFF;}
+
+/*商家列表样式*/
+.goods-list {}
+.goods-list .coupon-page {padding: 5px;}
+.goods-list .coupon-page .image {float: left;width: 30%;}
+.goods-list .coupon-page .image image {width: 25vw;height: 25vw;border-radius:10upx;}
+.goods-list .coupon-page .content {float: right;width:70%;}
+.goods-list .coupon-page .content .title {color: #333;font-weight: 600;font-size:4vw;text-overflow: ellipsis;-webkit-line-clamp: 2;-webkit-box-orient: vertical;height: 6.6vw;margin-bottom: 0vw;overflow: hidden;}
+.goods-list .coupon-page .content .title .distance{font-size: 2.6vw;color:#FFF;background-color:#00BAAD;border-radius:20rpx;float: right;padding: 0 16upx;font-weight: 100;margin-top:10upx;}
+.goods-list .coupon-page .content .num {color: #aaa;line-height: 20px;font-size: 13px;padding-top: 0.1vw;}
+.goods-list .coupon-page .content .money {height: 24px;margin-top: 5px;}
+.goods-list .coupon-page .content .consume {height:78upx;overflow: hidden;}
+.goods-list .coupon-page .content .consume .zhekou {width:65%;float:left;margin-top:10upx;}
+.goods-list .coupon-page .content .consume .zhekou .tmprice {height:5vw;line-height:5vw;overflow: hidden;font-size:24upx;color: #999;width:90%;}
+.goods-list .coupon-page .content .consume .zhekou .tmprice .icon{float:left;width:38upx;height:38upx;background: url('https://www.fhlego.com/static/coupon.png') center no-repeat;background-size:100%;margin-right:8upx;}
+.goods-list .coupon-page .content .consume .xiaofei {width:34%;float: right;line-height: 58upx;margin-top:32upx;font-size: 24upx;text-align: right;}
+.goods-list .coupon-page .content .consume .xiaofei text{color: #00BAAD;}
+		  
+.goods-list .s-row {position: relative;margin-left: 0;margin-right: 0;height: auto;zoom: 1;display: block;}
+.goods-list .s-row::after,.s-row::before {content: "";display: table;}
+.goods-list .s-row::after {clear: both;visibility: hidden;font-size: 0;height: 0;}
+
+/*登陆通用样式*/
+
+.dlbutton {	color: #FFFFFF;	font-size:32upx;width:60%;height:86upx;background:linear-gradient(-90deg,rgba(63,205,235,1),rgba(188,226,158,1));box-shadow:0upx 0upx 13upx 0upx rgba(164,217,228,0.2);border-radius:50upx;line-height: 86upx;text-align: center;margin:60upx auto 20upx;}
+.dlbutton-hover {background:linear-gradient(-90deg,rgba(63,205,235,0.9),rgba(188,226,158,0.9));}
+.xieyi{	display: flex;	flex-direction: row;justify-content: center;align-items: center;font-size: 30upx;margin-top: 80upx;color: #FFA800;text-align: center;height: 40upx;	line-height: 40upx;}
+.xieyi text{font-size: 24upx;margin-left: 15upx;margin-right: 15upx;}
+
+/*文章样式*/
+.news {width:96%;padding:0 2%;height:48upx;line-height:48upx;overflow: hidden;}
+.news .icon{width:48upx;height: 48upx;background: url('https://www.fhlego.com/static/news.png') center no-repeat;background-size:80%;float: left;margin-right:6upx;}
+.news .title{width:80%;line-height:68upx;}
+.news .content{width:100%;line-height:48upx;overflow: hidden;}
+.news .more{width:40upx;height:68upx;background: url('https://www.fhlego.com/static/arrow_r.png') center no-repeat;background-size:100%;float: right;}
+
+/*自定义高度栏样式*/
+.show-list{width:90%;height: 86upx;background: #FFFFFF;padding:20upx 5%;overflow: hidden;display: block;}
+.show-list .item{width:60%;float: left;overflow: hidden;}
+.show-list .item .title{width:100%;height:52upx;line-height: 52upx;}
+.show-list .item .date{width:100%;height:32upx;line-height:32upx;font-size: 24upx;color: #999;}
+.show-list .item2{width:30%;float: right;overflow: hidden;}
+.show-list .item2 .num{width:100%;text-align: right;line-height:48upx;font-size:36upx;color: #f30;}
+
+/*无代理样式*/
+.noservice {width: 100%;margin-top:20upx;text-align: center;}
+.noservice .icon{width:256upx;height: 256upx;background: url('https://www.fhlego.com/static/noinfo.png') center no-repeat;background-size:80%;margin:0 auto 20upx;}
+.noservice .tip text{width: 100%;line-height: 48upx;color: #666;font-size: 32upx;}
+.noservice text{color: #ccc;}
+.msg-tis{float: right;width: 35upx;height: 35upx;font-size:20upx;display: flex;justify-content: center;align-items: center;background-color: #eb4d3d;color: #fff;border-radius: 100%;}
+
+.sx-title{height:68upx;line-height:68upx;padding: 0 5%;}
+.sx-title .more{width:40upx;height:68upx;background: url('https://www.fhlego.com/static/arrow_r.png') center no-repeat;background-size:80%;float:left;}
+.sx-list{background-color: #FFFFFF;width:90%;text-align: left;padding:0 5%;overflow: hidden;}
+.sx-list-cell{display:block;align-items: center;padding:20upx 0;height:58upx;}
+.sx-list-cell-db{width:60%;flex: 1;border: 2upx solid #ccc;border-radius: 10upx;background: #eee;padding:5upx 10upx;overflow: hidden;margin:0 auto;}
+.sx-list-cell-db .sx-input{height:54upx;line-height:54upx;font-size:28upx;flex: 1;width:180upx;float: left;}
+.sx-list-cell-db .date{width:56upx;height:56upx;background:url('https://www.fhlego.com/static/date.png') center no-repeat;background-size:60%;float: right;}
+
+.sx-btn{width:40%;height:68upx;line-height:68upx;text-align:center;color: #fff;background-color: #00BAAD;border-radius:16upx;font-size:24upx;}
+
+
+/*行业分类佣金样式*/
+.rebate{width:90%; padding:20upx 5%;}
+.rebate .title{height: 58upx;line-height: 58upx;font-size:36upx;text-align: center;}
+
+.rebate .table{border:1px solid #ccc;border-bottom: 0;width:100%;}
+.rebate .table .tr{width:100%;display: flex;overflow: hidden;text-align: center;}
+.rebate .table .tr .th1,.th2,.th3{border-right: 1px solid #ccc;}
+.rebate .table .td3{width: 100%;border-right: 1px solid #ccc;flex-direction: column;color: #666;} 
+.rebate .table .td4{width: 100%;flex-direction: column;color: #666;} 
+.rebate .table .text{width:100%;text-align: center;padding: 10upx 0;border-bottom: 1px solid #ccc;} 
+.rebate .table .th{padding: 10px;border-bottom: 1px solid #ccc;text-align: center;width:100%;font-weight:600;background-color: #00BAAD;font-size: 28rpx;color: #FFF;}
+.rebate .table .td1,.td2{width:100%;display: inline-block;font-size:28upx;color: #666;border-right: 1px solid #ccc;border-bottom: 1px solid #ccc;vertical-align: middle}

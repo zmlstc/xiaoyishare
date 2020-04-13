@@ -1,0 +1,29 @@
+[2019-09-10 09:09:36] http://www.fhlego.com/api/mobile/index.php/index/pglist ( w=index&t=pglist ) 
+ERR: Db Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-8,8' at line 1
+SELECT * FROM `shopwt_points_goods` WHERE ( pgoods_show = '1' ) AND ( pgoods_state = '0' ) AND ( pgoods_commend = '1' ) AND ( pgoods_endtime > '1568077776' ) AND ( city_id = '2107' ) ORDER BY pgoods_sort asc,pgoods_id desc LIMIT -8,8  
+[2019-09-10 09:15:29] http://www.fhlego.com/api/mobile/index.php/index/pglist ( w=index&t=pglist ) 
+ERR: Db Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-8,8' at line 1
+SELECT * FROM `shopwt_points_goods` WHERE ( pgoods_show = '1' ) AND ( pgoods_state = '0' ) AND ( pgoods_commend = '1' ) AND ( pgoods_endtime > '1568078129' ) AND ( city_id = '2107' ) ORDER BY pgoods_sort asc,pgoods_id desc LIMIT -8,8  
+[2019-09-10 11:07:37] /api/mobile/index.php/member_buy/buy_step2 ( app=&cb= ) 
+ERR: {"appid":"wx913c5f6d1a789dc1","mch_id":"1347652401","nonce_str":"1cc4769a26f5de46b50ff8bc3d17e67b","body":"820621428855870013\u8ba2\u5355","attach":"r","out_trade_no":"8206214288558700136035","total_fee":100,"spbill_create_ip":"58.44.146.244","notify_url":"https:\/\/www.fhlego.com\/api\/mobile\/api\/payment\/wxminipay\/notify_url.php","trade_type":"JSAPI","openid":"odKIv5b6HKuksGmdZt5ZeYsx-c_c","sign":"B666BF9AA9E1C1EEBC849C557CDAE611"}
+[2019-09-10 18:01:45] /api/mobile/index.php/connect/index ( w=connect&t=index ) 
+ERR: ---{"errcode":40029,"errmsg":"invalid code, hints: [ req_id: aIEeI6yFe-wUAjIA ]"}
+[2019-09-10 18:03:48] /api/mobile/index.php/connect/index ( w=connect&t=index ) 
+ERR: ---{"errcode":40029,"errmsg":"invalid code, hints: [ req_id: bIEedzyFe-olqKRA ]"}
+[2019-09-10 18:15:35] /api/mobile/index.php/connect/index ( w=connect&t=index ) 
+ERR: ---{"errcode":40125,"errmsg":"invalid appsecret, view more at http:\/\/t.cn\/RAEkdVq, hints: [ req_id: hIEen_4ce-Yi5Zfa ]"}
+[2019-09-10 18:18:18] /api/mobile/index.php/connect/index ( w=connect&t=index ) 
+ERR: ---{"access_token":"25_CEG0Ts7nItDGClmd7lCm2vPXPLC1-vMCLU3k12aD9gOpXD16iojAb9V98lU_Vf9dRM7qveyDcWa2iv1DCQ3wWw","expires_in":7200,"refresh_token":"25_hpjEioUwSTFbu8oa52rweLyciY0s8UTawHJ1DG7uaowS-zzf2UtgxNaFJciC-oKrbb5tLr5ANDL9-ZE1bTiBIw","openid":"oqSltwPzHiZigrd-m_sLkTILQ0_Y","scope":"snsapi_userinfo","unionid":"omMUbxFgUWE2yuoFwusuLeNHgeuM"}
+[2019-09-10 18:22:21] /api/mobile/index.php/connect/index ( w=connect&t=index ) 
+ERR: ---{"access_token":"25_RrL-xbl1hm-VC4CDfFRVs0YELIkVfZJWTtmJ4vVFYgwDOiwLV1Y39OGNwy5RyAWrn5rKPCFvrmrPniigyba-Yw","expires_in":7200,"refresh_token":"25__eJqbuma8ZjxPnCWWjSrH-j7_YQXGrW4PXxd--Rxn3rPbi8iL6p4ukJQbWeReY1hgV6PWNrxn-PpSpiP6Rl9xQ","openid":"oqSltwPzHiZigrd-m_sLkTILQ0_Y","scope":"snsapi_userinfo","unionid":"omMUbxFgUWE2yuoFwusuLeNHgeuM"}
+[2019-09-10 18:32:15] /api/mobile/index.php/connect/index ( w=connect&t=index ) 
+ERR: ---{"access_token":"25_nXNMuginu-WZL0SsKC3Uv0M7XVmRlBe1zzYBLz2_ruvsc4SHtwmiSUSCNtQvxQFBMqnyeNN2rV66kwzL3L6sJQ","expires_in":7200,"refresh_token":"25_F701oS7iC4WYN-hBSlxkBM3zjh-WeoL4P0_fg5uk2UeUkc_b_VLQ3-DAjdbZobK8yHTQyNxOjjaA0lm_sAseDQ","openid":"oqSltwPzHiZigrd-m_sLkTILQ0_Y","scope":"snsapi_userinfo","unionid":"omMUbxFgUWE2yuoFwusuLeNHgeuM"}
+[2019-09-10 19:10:21] http://www.fhlego.com/api/mobile/index.php/index/pglist ( w=index&t=pglist ) 
+ERR: Db Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-8,8' at line 1
+SELECT * FROM `shopwt_points_goods` WHERE ( pgoods_show = '1' ) AND ( pgoods_state = '0' ) AND ( pgoods_commend = '1' ) AND ( pgoods_endtime > '1568113820' ) AND ( city_id = '2107' ) ORDER BY pgoods_sort asc,pgoods_id desc LIMIT -8,8  
+[2019-09-10 19:12:06] /api/mobile/index.php/connect/index ( w=connect&t=index ) 
+ERR: ---{"access_token":"25_0Tjn7UbiKxlonu6Pa9QE0D4MTCIwLq1GqCvCw_jl6zZ9XuK7R6nK4yQGjGS63fuxInWnj9gZ2I8sHbiV8oRFGTWK2MNO9wtyWNebH3Y9sLo","expires_in":7200,"refresh_token":"25_A_ynuiwECbZAIgtQ5PKcflWuDJ0zt-jccCrcIbA7RLY8Y20Z4majHIMYfbQYuc97SSEJ21AckyJiZDkUYYLLtf6HJAgmIwyodvPNcdkLWlA","openid":"oqSltwNi57mAHdDkh0FEaKVoVh-M","scope":"snsapi_userinfo","unionid":"omMUbxBh7QdrVmtsxG0CeHO6kik8"}
+[2019-09-10 19:12:40] /api/mobile/index.php/connect/index ( w=connect&t=index ) 
+ERR: ---{"access_token":"25_gYc3sxZV8UAyf-6TQutu-BLyxCWecgn8Dj-s9u7izOX70eech2sys1SHAIqhmtWokV8oPNYLFadWKSoiy2EgU7aosUj-0RZ6UIxX0TYCmGQ","expires_in":7200,"refresh_token":"25_CxMZsyGoMPhCgAjNRwV4j9piqPv7eOb8csr9E91eIJOOfD-PZ3v70cJIrqZNDTGgFOSrmCX1mmUgZAe4s0JAUSjvubj9N28kfKpAIyqK4wk","openid":"oqSltwNi57mAHdDkh0FEaKVoVh-M","scope":"snsapi_userinfo","unionid":"omMUbxBh7QdrVmtsxG0CeHO6kik8"}
+[2019-09-10 19:12:45] /api/mobile/index.php/connect/index ( w=connect&t=index ) 
+ERR: ---{"errcode":40163,"errmsg":"code been used, hints: [ req_id: FjEeZfyFe-V96L3 ]"}

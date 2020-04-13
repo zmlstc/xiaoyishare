@@ -1,0 +1,16 @@
+#
+# robots.txt for ShopWT.Com
+#
+
+User-agent: *
+Disallow: /api/
+Disallow: /control/
+Disallow: /lang/
+Disallow: /since/
+Disallow: /store/
+Disallow: /home/
+Disallow: /system/
+Disallow: /wt/
+Disallow: /install/
+Disallow: /api.php
+Disallow: /shopwt.php

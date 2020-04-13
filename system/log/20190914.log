@@ -1,0 +1,12 @@
+[2019-09-14 13:47:06] /api/mobile/index.php/connect/wxlogin ( w=connect&t=wxlogin ) 
+ERR: -url--https://api.weixin.qq.com/sns/jscode2session?appid=wx913c5f6d1a789dc1&secret=a7ea7fe537edbdf19c9d491ff196fd6e&js_code=0237w8dl0OmeDs1u6U9l0OUsdl07w8dO&grant_type=authorization_code
+[2019-09-14 13:47:07] /api/mobile/index.php/connect/wxlogin ( w=connect&t=wxlogin ) 
+ERR: ---{"session_key":"9FXWx5hZBnYCA914s92dBQ==","openid":"odKIv5bc8r4VLCWRrzpoqxuteASE","unionid":"omMUbxAAenIN2lTaCPpyAvt3-Nn8"}
+[2019-09-14 13:47:57] /api/mobile/index.php/connect/wxlogin ( w=connect&t=wxlogin ) 
+ERR: -url--https://api.weixin.qq.com/sns/jscode2session?appid=wx913c5f6d1a789dc1&secret=a7ea7fe537edbdf19c9d491ff196fd6e&js_code=0431m0fM0E8s7b27ksfM02EKeM01m0f3&grant_type=authorization_code
+[2019-09-14 13:47:58] /api/mobile/index.php/connect/wxlogin ( w=connect&t=wxlogin ) 
+ERR: ---{"session_key":"9FXWx5hZBnYCA914s92dBQ==","openid":"odKIv5bc8r4VLCWRrzpoqxuteASE","unionid":"omMUbxAAenIN2lTaCPpyAvt3-Nn8"}
+[2019-09-14 23:26:28] /api/mobile/index.php/connect/wxlogin ( w=connect&t=wxlogin ) 
+ERR: -url--https://api.weixin.qq.com/sns/jscode2session?appid=wx913c5f6d1a789dc1&secret=a7ea7fe537edbdf19c9d491ff196fd6e&js_code=023pABbh04Yjwv1nwydh0Yxpbh0pABbR&grant_type=authorization_code
+[2019-09-14 23:26:30] /api/mobile/index.php/connect/wxlogin ( w=connect&t=wxlogin ) 
+ERR: ---{"session_key":"b05\/PSNgW4Lo9J4gEasA9A==","openid":"odKIv5bc8r4VLCWRrzpoqxuteASE","unionid":"omMUbxAAenIN2lTaCPpyAvt3-Nn8"}

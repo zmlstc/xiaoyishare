@@ -1,0 +1,8 @@
+[2019-09-15 21:46:13] /api/mobile/index.php/connect/index ( w=connect&t=index ) 
+ERR: ---{"access_token":"25_GRcstv-3zqmr_aIk9vuV6-iwa3n-j3dOPDQW5auJvECNnh2DdFS33_sCLcc1oF-z695gF_zNUUSNf2XERQP4wQZSJl5eTQiWowkPzlgHdQQ","expires_in":7200,"refresh_token":"25_OwZmq3DYZTq6kObwKQQ-WX-xDtEDDkxi5j0H_-s2N96o-dK0QNKof20GdV0RRzM4RLfIjchcuE65ACF3y8OHBpazc2Mxcpz7Y7hTY4DBe4Q","openid":"oqSltwMFrJc2S50SOx6mtDKdrQfg","scope":"snsapi_userinfo","unionid":"omMUbxH3bN6FRos0slCaDX61vju0"}
+[2019-09-15 21:46:43] /api/mobile/index.php/connect/index ( w=connect&t=index ) 
+ERR: ---{"errcode":40163,"errmsg":"code been used, hints: [ req_id: xkheojwgE-qxPIDA ]"}
+[2019-09-15 21:47:21] /api/mobile/index.php/connect/wxlogin ( w=connect&t=wxlogin ) 
+ERR: -url--https://api.weixin.qq.com/sns/jscode2session?appid=wx913c5f6d1a789dc1&secret=a7ea7fe537edbdf19c9d491ff196fd6e&js_code=043HX9Jf2k1kDH0QWXLf2jPkJf2HX9JC&grant_type=authorization_code
+[2019-09-15 21:47:21] /api/mobile/index.php/connect/wxlogin ( w=connect&t=wxlogin ) 
+ERR: ---{"session_key":"Y5lOsV2CeGRjCtok6hcR1g==","openid":"odKIv5cdFtHxXwR7O_lvLOtD6Wok","unionid":"omMUbxH3bN6FRos0slCaDX61vju0"}

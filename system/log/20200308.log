@@ -1,0 +1,15 @@
+[2020-03-08 16:20:45] /api/mobile/index.php/member_fund/getwxinfo ( w=member_fund&t=getwxinfo ) 
+ERR: -url--https://api.weixin.qq.com/sns/jscode2session?appid=wx913c5f6d1a789dc1&secret=a7ea7fe537edbdf19c9d491ff196fd6e&js_code=023kw5fx1gycmf00T3fx1zQffx1kw5fy&grant_type=authorization_code
+[2020-03-08 16:20:46] /api/mobile/index.php/member_fund/getwxinfo ( w=member_fund&t=getwxinfo ) 
+ERR: ---{"session_key":"mQRZB5CKBTlKWrGp4C\/oug==","openid":"odKIv5b6HKuksGmdZt5ZeYsx-c_c"}
+[2020-03-08 16:22:38] /api/mobile/index.php/member_fund/getwxinfo ( w=member_fund&t=getwxinfo ) 
+ERR: -url--https://api.weixin.qq.com/sns/jscode2session?appid=wx913c5f6d1a789dc1&secret=a7ea7fe537edbdf19c9d491ff196fd6e&js_code=023jhVae2gyveJ0fkCee2Ma7be2jhVai&grant_type=authorization_code
+[2020-03-08 16:22:39] /api/mobile/index.php/member_fund/getwxinfo ( w=member_fund&t=getwxinfo ) 
+ERR: ---{"session_key":"mQRZB5CKBTlKWrGp4C\/oug==","openid":"odKIv5b6HKuksGmdZt5ZeYsx-c_c"}
+[2020-03-08 16:23:29] /api/mobile/index.php/connect/wxlogin ( w=connect&t=wxlogin ) 
+ERR: -url--https://api.weixin.qq.com/sns/jscode2session?appid=wx913c5f6d1a789dc1&secret=a7ea7fe537edbdf19c9d491ff196fd6e&js_code=033u02fI00C7Uc2JibhI0zfKeI0u02fl&grant_type=authorization_code
+[2020-03-08 16:23:30] /api/mobile/index.php/connect/wxlogin ( w=connect&t=wxlogin ) 
+ERR: ---{"session_key":"cuPtz\/GNLLd3dMTOgojxCA==","openid":"odKIv5b6HKuksGmdZt5ZeYsx-c_c"}
+[2020-03-08 23:58:15] http://www.fhlego.com/api/mobile/index.php/index/pglist ( w=index&t=pglist ) 
+ERR: Db Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-8,8' at line 1
+SELECT * FROM `shopwt_points_goods` WHERE ( pgoods_show = '1' ) AND ( pgoods_state = '0' ) AND ( pgoods_commend = '1' ) AND ( pgoods_endtime > '1583683095' ) AND ( city_id = '1996' ) ORDER BY pgoods_sort asc,pgoods_id desc LIMIT -8,8  

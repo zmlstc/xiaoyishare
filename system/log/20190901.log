@@ -1,0 +1,468 @@
+[2019-09-01 11:55:46] /api/mobile/index.php/member_buy/buy_step2 ( app=&cb= ) 
+ERR: {"appid":"wx913c5f6d1a789dc1","mch_id":"1347652401","nonce_str":"90e1edd4bb749e876a3450c639dcbecd","body":"420620654146749013\u8ba2\u5355","attach":"r","out_trade_no":"4206206541467490137106","total_fee":200,"spbill_create_ip":"183.12.236.57","notify_url":"https:\/\/www.fhlego.com\/api\/mobile\/api\/payment\/wxminipay\/notify_url.php","trade_type":"JSAPI","openid":"odKIv5UlzQp6rJTe4U4YMFuvXgME","sign":"5D71A85C1E6BA44790991822B233BB0D"}
+[2019-09-01 15:29:28] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: =======
+[2019-09-01 15:29:28] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===2====
+[2019-09-01 15:31:39] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: =======
+[2019-09-01 15:31:39] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===2====
+[2019-09-01 15:31:41] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: =======
+[2019-09-01 15:31:41] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===2====
+[2019-09-01 16:24:32] /api/mobile/index.php/member_buy/buy_step2 ( app=&cb= ) 
+ERR: {"appid":"wx913c5f6d1a789dc1","mch_id":"1347652401","nonce_str":"d8bc6737bda44a5afed981e98a99c103","body":"980620670272249013\u8ba2\u5355","attach":"r","out_trade_no":"9806206702722490133505","total_fee":100,"spbill_create_ip":"223.104.131.26","notify_url":"https:\/\/www.fhlego.com\/api\/mobile\/api\/payment\/wxminipay\/notify_url.php","trade_type":"JSAPI","openid":"odKIv5bc8r4VLCWRrzpoqxuteASE","sign":"6C862FC028B45EA362AFB213FA07A54C"}
+[2019-09-01 16:24:42] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: =======
+[2019-09-01 16:24:42] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===2====
+[2019-09-01 16:24:42] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `shopwt_order_log` (order_id,log_role,log_user,log_msg,log_orderstate,log_time) VALUES (NULL,'系统','系统','收到货款(外部交易号:4200000349201909018267625674)','20','1567326282')
+[2019-09-01 16:24:58] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: =======
+[2019-09-01 16:24:58] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===2====
+[2019-09-01 16:24:58] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `shopwt_order_log` (order_id,log_role,log_user,log_msg,log_orderstate,log_time) VALUES (NULL,'系统','系统','收到货款(外部交易号:4200000349201909018267625674)','20','1567326298')
+[2019-09-01 16:25:13] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: =======
+[2019-09-01 16:25:13] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===2====
+[2019-09-01 16:25:13] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `shopwt_order_log` (order_id,log_role,log_user,log_msg,log_orderstate,log_time) VALUES (NULL,'系统','系统','收到货款(外部交易号:4200000349201909018267625674)','20','1567326313')
+[2019-09-01 16:25:44] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: =======
+[2019-09-01 16:25:44] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===2====
+[2019-09-01 16:25:44] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `shopwt_order_log` (order_id,log_role,log_user,log_msg,log_orderstate,log_time) VALUES (NULL,'系统','系统','收到货款(外部交易号:4200000349201909018267625674)','20','1567326344')
+[2019-09-01 16:28:45] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: =======
+[2019-09-01 16:28:45] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===2====
+[2019-09-01 16:28:45] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `shopwt_order_log` (order_id,log_role,log_user,log_msg,log_orderstate,log_time) VALUES (NULL,'系统','系统','收到货款(外部交易号:4200000349201909018267625674)','20','1567326525')
+[2019-09-01 16:38:45] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: =======
+[2019-09-01 16:38:45] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===2====
+[2019-09-01 16:38:45] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `shopwt_order_log` (order_id,log_role,log_user,log_msg,log_orderstate,log_time) VALUES (NULL,'系统','系统','收到货款(外部交易号:4200000349201909018267625674)','20','1567327125')
+[2019-09-01 16:55:51] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: =======
+[2019-09-01 16:55:51] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===2====
+[2019-09-01 16:55:51] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `shopwt_order_log` (order_id,log_role,log_user,log_msg,log_orderstate,log_time) VALUES (NULL,'系统','系统','收到货款(外部交易号:4200000355201908310596065514)','20','1567328151')
+[2019-09-01 16:58:46] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: =======
+[2019-09-01 16:58:46] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===2====
+[2019-09-01 16:58:46] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `shopwt_order_log` (order_id,log_role,log_user,log_msg,log_orderstate,log_time) VALUES (NULL,'系统','系统','收到货款(外部交易号:4200000349201909018267625674)','20','1567328326')
+[2019-09-01 17:28:47] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: =======
+[2019-09-01 17:28:47] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===2====
+[2019-09-01 17:28:47] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `shopwt_order_log` (order_id,log_role,log_user,log_msg,log_orderstate,log_time) VALUES (NULL,'系统','系统','收到货款(外部交易号:4200000349201909018267625674)','20','1567330127')
+[2019-09-01 17:58:49] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: =======
+[2019-09-01 17:58:49] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===2====
+[2019-09-01 17:58:49] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `shopwt_order_log` (order_id,log_role,log_user,log_msg,log_orderstate,log_time) VALUES (NULL,'系统','系统','收到货款(外部交易号:4200000349201909018267625674)','20','1567331929')
+[2019-09-01 18:58:50] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: =======
+[2019-09-01 18:58:50] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===2====
+[2019-09-01 18:58:50] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `shopwt_order_log` (order_id,log_role,log_user,log_msg,log_orderstate,log_time) VALUES (NULL,'系统','系统','收到货款(外部交易号:4200000349201909018267625674)','20','1567335530')
+[2019-09-01 20:56:04] /api/mobile/index.php/member_buy/buy_step2 ( app=&cb= ) 
+ERR: {"appid":"wx913c5f6d1a789dc1","mch_id":"1347652401","nonce_str":"05d75d78f050beec644fad9488088d02","body":"770620686563014013\u8ba2\u5355","attach":"r","out_trade_no":"7706206865630140131720","total_fee":100,"spbill_create_ip":"58.44.145.154","notify_url":"https:\/\/www.fhlego.com\/api\/mobile\/api\/payment\/wxminipay\/notify_url.php","trade_type":"JSAPI","openid":"odKIv5b6HKuksGmdZt5ZeYsx-c_c","sign":"8B563CECA60B387304046AE894FC1ABA"}
+[2019-09-01 20:56:12] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: =======
+[2019-09-01 20:56:12] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===2====
+[2019-09-01 20:56:12] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===rec_pay==null
+[2019-09-01 20:56:12] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===rec_pay=22=null
+[2019-09-01 20:56:12] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `shopwt_order_log` (order_id,log_role,log_user,log_msg,log_orderstate,log_time) VALUES (NULL,'系统','系统','收到货款(外部交易号:4200000350201909013861171744)','20','1567342572')
+[2019-09-01 20:56:28] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: =======
+[2019-09-01 20:56:28] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===2====
+[2019-09-01 20:56:28] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===rec_pay==null
+[2019-09-01 20:56:28] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===rec_pay=22=null
+[2019-09-01 20:56:28] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `shopwt_order_log` (order_id,log_role,log_user,log_msg,log_orderstate,log_time) VALUES (NULL,'系统','系统','收到货款(外部交易号:4200000350201909013861171744)','20','1567342588')
+[2019-09-01 20:56:44] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: =======
+[2019-09-01 20:56:44] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===2====
+[2019-09-01 20:56:44] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===rec_pay==null
+[2019-09-01 20:56:44] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===rec_pay=22=null
+[2019-09-01 20:56:44] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `shopwt_order_log` (order_id,log_role,log_user,log_msg,log_orderstate,log_time) VALUES (NULL,'系统','系统','收到货款(外部交易号:4200000350201909013861171744)','20','1567342604')
+[2019-09-01 20:57:16] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: =======
+[2019-09-01 20:57:16] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===2====
+[2019-09-01 20:57:16] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===rec_pay==null
+[2019-09-01 20:57:16] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===rec_pay=22=null
+[2019-09-01 20:57:16] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `shopwt_order_log` (order_id,log_role,log_user,log_msg,log_orderstate,log_time) VALUES (NULL,'系统','系统','收到货款(外部交易号:4200000350201909013861171744)','20','1567342635')
+[2019-09-01 21:00:17] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: =======
+[2019-09-01 21:00:17] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===2====
+[2019-09-01 21:00:17] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===rec_pay==null
+[2019-09-01 21:00:17] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===rec_pay=22=null
+[2019-09-01 21:00:17] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `shopwt_order_log` (order_id,log_role,log_user,log_msg,log_orderstate,log_time) VALUES (NULL,'系统','系统','收到货款(外部交易号:4200000350201909013861171744)','20','1567342817')
+[2019-09-01 21:10:19] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: =======
+[2019-09-01 21:10:19] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===2====
+[2019-09-01 21:10:19] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===r5555=={"state":false,"msg":"\u8be5\u652f\u4ed8\u5355\u4e0d\u5b58\u5728","data":[]}
+[2019-09-01 21:10:19] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===rec_pay==null
+[2019-09-01 21:10:19] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===rec_pay=22=null
+[2019-09-01 21:10:19] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `shopwt_order_log` (order_id,log_role,log_user,log_msg,log_orderstate,log_time) VALUES (NULL,'系统','系统','收到货款(外部交易号:4200000350201909013861171744)','20','1567343419')
+[2019-09-01 21:19:25] /api/mobile/index.php/member_buy/buy_step2 ( app=&cb= ) 
+ERR: {"appid":"wx913c5f6d1a789dc1","mch_id":"1347652401","nonce_str":"1eefd504838d349a25017446225becce","body":"490620687965035013\u8ba2\u5355","attach":"r","out_trade_no":"4906206879650350136525","total_fee":100,"spbill_create_ip":"58.44.145.154","notify_url":"https:\/\/www.fhlego.com\/api\/mobile\/api\/payment\/wxminipay\/notify_url.php","trade_type":"JSAPI","openid":"odKIv5b6HKuksGmdZt5ZeYsx-c_c","sign":"09A083B0F2A3ADB00FDDD5CFCCC2BF9A"}
+[2019-09-01 21:19:33] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: =======
+[2019-09-01 21:19:33] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===2====
+[2019-09-01 21:19:33] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===notifyWt=5====result==={"appid":"wx913c5f6d1a789dc1","attach":"r","bank_type":"CCB_DEBIT","cash_fee":"100","fee_type":"CNY","is_subscribe":"N","mch_id":"1347652401","nonce_str":"1eefd504838d349a25017446225becce","openid":"odKIv5b6HKuksGmdZt5ZeYsx-c_c","out_trade_no":"4906206879650350136525","result_code":"SUCCESS","return_code":"SUCCESS","sign":"1677014C0370A55E8010FA645DD642AB","time_end":"20190901211934","total_fee":"100","trade_type":"JSAPI","transaction_id":"4200000344201909015631793153"}
+[2019-09-01 21:19:33] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===notifyWt=5====internalSn===490620687965035013_r----{"appid":"wx913c5f6d1a789dc1","attach":"r","bank_type":"CCB_DEBIT","cash_fee":"100","fee_type":"CNY","is_subscribe":"N","mch_id":"1347652401","nonce_str":"1eefd504838d349a25017446225becce","openid":"odKIv5b6HKuksGmdZt5ZeYsx-c_c","out_trade_no":"490620687965035013","result_code":"SUCCESS","return_code":"SUCCESS","sign":"1677014C0370A55E8010FA645DD642AB","time_end":"20190901211934","total_fee":"100","trade_type":"JSAPI","transaction_id":"4200000344201909015631793153"}
+[2019-09-01 21:19:33] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===out_trade_no==490620687965035013_r
+[2019-09-01 21:19:33] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===getRealOrderInfo=={"pay_sn":"490620687965035013"}
+[2019-09-01 21:19:33] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===r5555=={"state":false,"msg":"\u8be5\u652f\u4ed8\u5355\u4e0d\u5b58\u5728","data":[]}
+[2019-09-01 21:19:33] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===rec_pay==null
+[2019-09-01 21:19:33] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===rec_pay=22=null
+[2019-09-01 21:19:33] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `shopwt_order_log` (order_id,log_role,log_user,log_msg,log_orderstate,log_time) VALUES (NULL,'系统','系统','收到货款(外部交易号:4200000344201909015631793153)','20','1567343973')
+[2019-09-01 21:19:49] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: =======
+[2019-09-01 21:19:49] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===2====
+[2019-09-01 21:19:49] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===notifyWt=5====result==={"appid":"wx913c5f6d1a789dc1","attach":"r","bank_type":"CCB_DEBIT","cash_fee":"100","fee_type":"CNY","is_subscribe":"N","mch_id":"1347652401","nonce_str":"1eefd504838d349a25017446225becce","openid":"odKIv5b6HKuksGmdZt5ZeYsx-c_c","out_trade_no":"4906206879650350136525","result_code":"SUCCESS","return_code":"SUCCESS","sign":"1677014C0370A55E8010FA645DD642AB","time_end":"20190901211934","total_fee":"100","trade_type":"JSAPI","transaction_id":"4200000344201909015631793153"}
+[2019-09-01 21:19:49] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===notifyWt=5====internalSn===490620687965035013_r----{"appid":"wx913c5f6d1a789dc1","attach":"r","bank_type":"CCB_DEBIT","cash_fee":"100","fee_type":"CNY","is_subscribe":"N","mch_id":"1347652401","nonce_str":"1eefd504838d349a25017446225becce","openid":"odKIv5b6HKuksGmdZt5ZeYsx-c_c","out_trade_no":"490620687965035013","result_code":"SUCCESS","return_code":"SUCCESS","sign":"1677014C0370A55E8010FA645DD642AB","time_end":"20190901211934","total_fee":"100","trade_type":"JSAPI","transaction_id":"4200000344201909015631793153"}
+[2019-09-01 21:19:49] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===out_trade_no==490620687965035013_r
+[2019-09-01 21:19:49] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===getRealOrderInfo=={"pay_sn":"490620687965035013"}
+[2019-09-01 21:19:49] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===r5555=={"state":false,"msg":"\u8be5\u652f\u4ed8\u5355\u4e0d\u5b58\u5728","data":[]}
+[2019-09-01 21:19:49] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===rec_pay==null
+[2019-09-01 21:19:49] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===rec_pay=22=null
+[2019-09-01 21:19:49] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `shopwt_order_log` (order_id,log_role,log_user,log_msg,log_orderstate,log_time) VALUES (NULL,'系统','系统','收到货款(外部交易号:4200000344201909015631793153)','20','1567343989')
+[2019-09-01 21:20:05] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: =======
+[2019-09-01 21:20:05] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===2====
+[2019-09-01 21:20:05] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===notifyWt=5====result==={"appid":"wx913c5f6d1a789dc1","attach":"r","bank_type":"CCB_DEBIT","cash_fee":"100","fee_type":"CNY","is_subscribe":"N","mch_id":"1347652401","nonce_str":"1eefd504838d349a25017446225becce","openid":"odKIv5b6HKuksGmdZt5ZeYsx-c_c","out_trade_no":"4906206879650350136525","result_code":"SUCCESS","return_code":"SUCCESS","sign":"1677014C0370A55E8010FA645DD642AB","time_end":"20190901211934","total_fee":"100","trade_type":"JSAPI","transaction_id":"4200000344201909015631793153"}
+[2019-09-01 21:20:05] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===notifyWt=5====internalSn===490620687965035013_r----{"appid":"wx913c5f6d1a789dc1","attach":"r","bank_type":"CCB_DEBIT","cash_fee":"100","fee_type":"CNY","is_subscribe":"N","mch_id":"1347652401","nonce_str":"1eefd504838d349a25017446225becce","openid":"odKIv5b6HKuksGmdZt5ZeYsx-c_c","out_trade_no":"490620687965035013","result_code":"SUCCESS","return_code":"SUCCESS","sign":"1677014C0370A55E8010FA645DD642AB","time_end":"20190901211934","total_fee":"100","trade_type":"JSAPI","transaction_id":"4200000344201909015631793153"}
+[2019-09-01 21:20:05] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===out_trade_no==490620687965035013_r
+[2019-09-01 21:20:05] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===getRealOrderInfo=={"pay_sn":"490620687965035013"}
+[2019-09-01 21:20:05] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===r5555=={"state":false,"msg":"\u8be5\u652f\u4ed8\u5355\u4e0d\u5b58\u5728","data":[]}
+[2019-09-01 21:20:05] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===rec_pay==null
+[2019-09-01 21:20:05] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===rec_pay=22=null
+[2019-09-01 21:20:05] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `shopwt_order_log` (order_id,log_role,log_user,log_msg,log_orderstate,log_time) VALUES (NULL,'系统','系统','收到货款(外部交易号:4200000344201909015631793153)','20','1567344005')
+[2019-09-01 21:20:35] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: =======
+[2019-09-01 21:20:35] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===2====
+[2019-09-01 21:20:35] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===notifyWt=5====result==={"appid":"wx913c5f6d1a789dc1","attach":"r","bank_type":"CCB_DEBIT","cash_fee":"100","fee_type":"CNY","is_subscribe":"N","mch_id":"1347652401","nonce_str":"1eefd504838d349a25017446225becce","openid":"odKIv5b6HKuksGmdZt5ZeYsx-c_c","out_trade_no":"4906206879650350136525","result_code":"SUCCESS","return_code":"SUCCESS","sign":"1677014C0370A55E8010FA645DD642AB","time_end":"20190901211934","total_fee":"100","trade_type":"JSAPI","transaction_id":"4200000344201909015631793153"}
+[2019-09-01 21:20:35] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===notifyWt=5====internalSn===490620687965035013_r----{"appid":"wx913c5f6d1a789dc1","attach":"r","bank_type":"CCB_DEBIT","cash_fee":"100","fee_type":"CNY","is_subscribe":"N","mch_id":"1347652401","nonce_str":"1eefd504838d349a25017446225becce","openid":"odKIv5b6HKuksGmdZt5ZeYsx-c_c","out_trade_no":"490620687965035013","result_code":"SUCCESS","return_code":"SUCCESS","sign":"1677014C0370A55E8010FA645DD642AB","time_end":"20190901211934","total_fee":"100","trade_type":"JSAPI","transaction_id":"4200000344201909015631793153"}
+[2019-09-01 21:20:35] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===out_trade_no==490620687965035013_r
+[2019-09-01 21:20:35] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===getRealOrderInfo=={"pay_sn":"490620687965035013"}
+[2019-09-01 21:20:35] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===r5555=={"state":false,"msg":"\u8be5\u652f\u4ed8\u5355\u4e0d\u5b58\u5728","data":[]}
+[2019-09-01 21:20:35] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===rec_pay==null
+[2019-09-01 21:20:35] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===rec_pay=22=null
+[2019-09-01 21:20:35] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `shopwt_order_log` (order_id,log_role,log_user,log_msg,log_orderstate,log_time) VALUES (NULL,'系统','系统','收到货款(外部交易号:4200000344201909015631793153)','20','1567344035')
+[2019-09-01 21:23:36] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: =======
+[2019-09-01 21:23:36] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===2====
+[2019-09-01 21:23:36] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===notifyWt=5====result==={"appid":"wx913c5f6d1a789dc1","attach":"r","bank_type":"CCB_DEBIT","cash_fee":"100","fee_type":"CNY","is_subscribe":"N","mch_id":"1347652401","nonce_str":"1eefd504838d349a25017446225becce","openid":"odKIv5b6HKuksGmdZt5ZeYsx-c_c","out_trade_no":"4906206879650350136525","result_code":"SUCCESS","return_code":"SUCCESS","sign":"1677014C0370A55E8010FA645DD642AB","time_end":"20190901211934","total_fee":"100","trade_type":"JSAPI","transaction_id":"4200000344201909015631793153"}
+[2019-09-01 21:23:36] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===notifyWt=5====internalSn===490620687965035013_r----{"appid":"wx913c5f6d1a789dc1","attach":"r","bank_type":"CCB_DEBIT","cash_fee":"100","fee_type":"CNY","is_subscribe":"N","mch_id":"1347652401","nonce_str":"1eefd504838d349a25017446225becce","openid":"odKIv5b6HKuksGmdZt5ZeYsx-c_c","out_trade_no":"490620687965035013","result_code":"SUCCESS","return_code":"SUCCESS","sign":"1677014C0370A55E8010FA645DD642AB","time_end":"20190901211934","total_fee":"100","trade_type":"JSAPI","transaction_id":"4200000344201909015631793153"}
+[2019-09-01 21:23:36] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===out_trade_no==490620687965035013_r
+[2019-09-01 21:23:36] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===getRealOrderInfo=={"pay_sn":"490620687965035013"}
+[2019-09-01 21:23:36] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===r5555=={"state":false,"msg":"\u8be5\u652f\u4ed8\u5355\u4e0d\u5b58\u5728","data":[]}
+[2019-09-01 21:23:36] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===rec_pay==null
+[2019-09-01 21:23:36] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===rec_pay=22=null
+[2019-09-01 21:23:36] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `shopwt_order_log` (order_id,log_role,log_user,log_msg,log_orderstate,log_time) VALUES (NULL,'系统','系统','收到货款(外部交易号:4200000344201909015631793153)','20','1567344216')
+[2019-09-01 21:30:20] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: =======
+[2019-09-01 21:30:20] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===2====
+[2019-09-01 21:30:20] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===notifyWt=5====result==={"appid":"wx913c5f6d1a789dc1","attach":"r","bank_type":"CFT","cash_fee":"100","fee_type":"CNY","is_subscribe":"N","mch_id":"1347652401","nonce_str":"05d75d78f050beec644fad9488088d02","openid":"odKIv5b6HKuksGmdZt5ZeYsx-c_c","out_trade_no":"7706206865630140131720","result_code":"SUCCESS","return_code":"SUCCESS","sign":"03E1F639B14D7E8E81AAC7CD6D4DB37E","time_end":"20190901205612","total_fee":"100","trade_type":"JSAPI","transaction_id":"4200000350201909013861171744"}
+[2019-09-01 21:30:20] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===notifyWt=5====internalSn===770620686563014013_r----{"appid":"wx913c5f6d1a789dc1","attach":"r","bank_type":"CFT","cash_fee":"100","fee_type":"CNY","is_subscribe":"N","mch_id":"1347652401","nonce_str":"05d75d78f050beec644fad9488088d02","openid":"odKIv5b6HKuksGmdZt5ZeYsx-c_c","out_trade_no":"770620686563014013","result_code":"SUCCESS","return_code":"SUCCESS","sign":"03E1F639B14D7E8E81AAC7CD6D4DB37E","time_end":"20190901205612","total_fee":"100","trade_type":"JSAPI","transaction_id":"4200000350201909013861171744"}
+[2019-09-01 21:30:20] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===out_trade_no==770620686563014013_r
+[2019-09-01 21:30:20] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===getRealOrderInfo=={"pay_sn":"770620686563014013"}
+[2019-09-01 21:30:20] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===r5555=={"state":true,"msg":"","data":{"subject":"\u5b9e\u7269\u8ba2\u5355_","order_type":"real_order","order_list":[{"order_id":"101","order_sn":"770620686563014013","pay_sn":"770620686563014013","store_id":"9","store_name":"\u5c0f\u6613\u5171\u4eab\u5e73\u53f0","buyer_id":"100013","buyer_name":"100013","add_time":"1567342562","payment_code":"wxminipay","payment_time":"0","finnshed_time":"0","order_amount":"1.00","rcb_amount":"0.00","pd_amount":"0.00","points_money":"0.00","points_number":"0","evaluation_state":"0","evaluation_again_state":"0","order_state":"10","lock_state":"0","delete_state":"0","delay_time":"0","order_from":"1","order_type":"1","api_pay_time":"0","rpt_amount":"0.00","trade_no":null,"voucher_price":"0.00","voucher_code":"","promotion_info":"","commis_rate":"0","member_invite_momey":"0.000","store_invite_momey":"0.000","cost_momey":"0.000","cost_points":"0","invite_info":"","sys_commis_momey":"0.000","seller_del":"0","seller_money":"0.000","agent_id":"0","goods_amount":"1.00","agent_commis_momey":"0.000"}],"if_buyer_repay":null}}
+[2019-09-01 21:30:20] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===rec_pay==[{"order_id":"101","order_sn":"770620686563014013","pay_sn":"770620686563014013","store_id":"9","store_name":"\u5c0f\u6613\u5171\u4eab\u5e73\u53f0","buyer_id":"100013","buyer_name":"100013","add_time":"1567342562","payment_code":"wxminipay","payment_time":"0","finnshed_time":"0","order_amount":"1.00","rcb_amount":"0.00","pd_amount":"0.00","points_money":"0.00","points_number":"0","evaluation_state":"0","evaluation_again_state":"0","order_state":"10","lock_state":"0","delete_state":"0","delay_time":"0","order_from":"1","order_type":"1","api_pay_time":"0","rpt_amount":"0.00","trade_no":null,"voucher_price":"0.00","voucher_code":"","promotion_info":"","commis_rate":"0","member_invite_momey":"0.000","store_invite_momey":"0.000","cost_momey":"0.000","cost_points":"0","invite_info":"","sys_commis_momey":"0.000","seller_del":"0","seller_money":"0.000","agent_id":"0","goods_amount":"1.00","agent_commis_momey":"0.000"}]
+[2019-09-01 21:30:20] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===rec_pay=22={"order_id":"101","order_sn":"770620686563014013","pay_sn":"770620686563014013","store_id":"9","store_name":"\u5c0f\u6613\u5171\u4eab\u5e73\u53f0","buyer_id":"100013","buyer_name":"100013","add_time":"1567342562","payment_code":"wxminipay","payment_time":"0","finnshed_time":"0","order_amount":"1.00","rcb_amount":"0.00","pd_amount":"0.00","points_money":"0.00","points_number":"0","evaluation_state":"0","evaluation_again_state":"0","order_state":"10","lock_state":"0","delete_state":"0","delay_time":"0","order_from":"1","order_type":"1","api_pay_time":"0","rpt_amount":"0.00","trade_no":null,"voucher_price":"0.00","voucher_code":"","promotion_info":"","commis_rate":"0","member_invite_momey":"0.000","store_invite_momey":"0.000","cost_momey":"0.000","cost_points":"0","invite_info":"","sys_commis_momey":"0.000","seller_del":"0","seller_money":"0.000","agent_id":"0","goods_amount":"1.00","agent_commis_momey":"0.000"}
+[2019-09-01 21:33:37] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: =======
+[2019-09-01 21:33:37] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===2====
+[2019-09-01 21:33:37] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===notifyWt=5====result==={"appid":"wx913c5f6d1a789dc1","attach":"r","bank_type":"CCB_DEBIT","cash_fee":"100","fee_type":"CNY","is_subscribe":"N","mch_id":"1347652401","nonce_str":"1eefd504838d349a25017446225becce","openid":"odKIv5b6HKuksGmdZt5ZeYsx-c_c","out_trade_no":"4906206879650350136525","result_code":"SUCCESS","return_code":"SUCCESS","sign":"1677014C0370A55E8010FA645DD642AB","time_end":"20190901211934","total_fee":"100","trade_type":"JSAPI","transaction_id":"4200000344201909015631793153"}
+[2019-09-01 21:33:37] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===notifyWt=5====internalSn===490620687965035013_r----{"appid":"wx913c5f6d1a789dc1","attach":"r","bank_type":"CCB_DEBIT","cash_fee":"100","fee_type":"CNY","is_subscribe":"N","mch_id":"1347652401","nonce_str":"1eefd504838d349a25017446225becce","openid":"odKIv5b6HKuksGmdZt5ZeYsx-c_c","out_trade_no":"490620687965035013","result_code":"SUCCESS","return_code":"SUCCESS","sign":"1677014C0370A55E8010FA645DD642AB","time_end":"20190901211934","total_fee":"100","trade_type":"JSAPI","transaction_id":"4200000344201909015631793153"}
+[2019-09-01 21:33:37] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===out_trade_no==490620687965035013_r
+[2019-09-01 21:33:37] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===getRealOrderInfo=={"pay_sn":"490620687965035013"}
+[2019-09-01 21:33:37] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===r5555=={"state":true,"msg":"","data":{"subject":"\u5b9e\u7269\u8ba2\u5355_","order_type":"real_order","order_list":[{"order_id":"102","order_sn":"490620687965035013","pay_sn":"490620687965035013","store_id":"9","store_name":"\u5c0f\u6613\u5171\u4eab\u5e73\u53f0","buyer_id":"100013","buyer_name":"100013","add_time":"1567343964","payment_code":"wxminipay","payment_time":"0","finnshed_time":"0","order_amount":"1.00","rcb_amount":"0.00","pd_amount":"0.00","points_money":"0.00","points_number":"0","evaluation_state":"0","evaluation_again_state":"0","order_state":"10","lock_state":"0","delete_state":"0","delay_time":"0","order_from":"1","order_type":"1","api_pay_time":"0","rpt_amount":"0.00","trade_no":null,"voucher_price":"0.00","voucher_code":"","promotion_info":"","commis_rate":"0","member_invite_momey":"0.000","store_invite_momey":"0.000","cost_momey":"0.000","cost_points":"0","invite_info":"","sys_commis_momey":"0.000","seller_del":"0","seller_money":"0.000","agent_id":"0","goods_amount":"1.00","agent_commis_momey":"0.000"}],"if_buyer_repay":null}}
+[2019-09-01 21:33:37] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===rec_pay==[{"order_id":"102","order_sn":"490620687965035013","pay_sn":"490620687965035013","store_id":"9","store_name":"\u5c0f\u6613\u5171\u4eab\u5e73\u53f0","buyer_id":"100013","buyer_name":"100013","add_time":"1567343964","payment_code":"wxminipay","payment_time":"0","finnshed_time":"0","order_amount":"1.00","rcb_amount":"0.00","pd_amount":"0.00","points_money":"0.00","points_number":"0","evaluation_state":"0","evaluation_again_state":"0","order_state":"10","lock_state":"0","delete_state":"0","delay_time":"0","order_from":"1","order_type":"1","api_pay_time":"0","rpt_amount":"0.00","trade_no":null,"voucher_price":"0.00","voucher_code":"","promotion_info":"","commis_rate":"0","member_invite_momey":"0.000","store_invite_momey":"0.000","cost_momey":"0.000","cost_points":"0","invite_info":"","sys_commis_momey":"0.000","seller_del":"0","seller_money":"0.000","agent_id":"0","goods_amount":"1.00","agent_commis_momey":"0.000"}]
+[2019-09-01 21:33:37] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===rec_pay=22={"order_id":"102","order_sn":"490620687965035013","pay_sn":"490620687965035013","store_id":"9","store_name":"\u5c0f\u6613\u5171\u4eab\u5e73\u53f0","buyer_id":"100013","buyer_name":"100013","add_time":"1567343964","payment_code":"wxminipay","payment_time":"0","finnshed_time":"0","order_amount":"1.00","rcb_amount":"0.00","pd_amount":"0.00","points_money":"0.00","points_number":"0","evaluation_state":"0","evaluation_again_state":"0","order_state":"10","lock_state":"0","delete_state":"0","delay_time":"0","order_from":"1","order_type":"1","api_pay_time":"0","rpt_amount":"0.00","trade_no":null,"voucher_price":"0.00","voucher_code":"","promotion_info":"","commis_rate":"0","member_invite_momey":"0.000","store_invite_momey":"0.000","cost_momey":"0.000","cost_points":"0","invite_info":"","sys_commis_momey":"0.000","seller_del":"0","seller_money":"0.000","agent_id":"0","goods_amount":"1.00","agent_commis_momey":"0.000"}
+[2019-09-01 21:53:38] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: =======
+[2019-09-01 21:53:38] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===2====
+[2019-09-01 21:53:38] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===notifyWt=5====result==={"appid":"wx913c5f6d1a789dc1","attach":"r","bank_type":"CCB_DEBIT","cash_fee":"100","fee_type":"CNY","is_subscribe":"N","mch_id":"1347652401","nonce_str":"1eefd504838d349a25017446225becce","openid":"odKIv5b6HKuksGmdZt5ZeYsx-c_c","out_trade_no":"4906206879650350136525","result_code":"SUCCESS","return_code":"SUCCESS","sign":"1677014C0370A55E8010FA645DD642AB","time_end":"20190901211934","total_fee":"100","trade_type":"JSAPI","transaction_id":"4200000344201909015631793153"}
+[2019-09-01 21:53:38] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===notifyWt=5====internalSn===490620687965035013_r----{"appid":"wx913c5f6d1a789dc1","attach":"r","bank_type":"CCB_DEBIT","cash_fee":"100","fee_type":"CNY","is_subscribe":"N","mch_id":"1347652401","nonce_str":"1eefd504838d349a25017446225becce","openid":"odKIv5b6HKuksGmdZt5ZeYsx-c_c","out_trade_no":"490620687965035013","result_code":"SUCCESS","return_code":"SUCCESS","sign":"1677014C0370A55E8010FA645DD642AB","time_end":"20190901211934","total_fee":"100","trade_type":"JSAPI","transaction_id":"4200000344201909015631793153"}
+[2019-09-01 21:53:38] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===out_trade_no==490620687965035013_r
+[2019-09-01 21:53:38] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===getRealOrderInfo=={"pay_sn":"490620687965035013"}
+[2019-09-01 21:53:38] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===r5555=={"state":true,"msg":"","data":{"subject":"\u5b9e\u7269\u8ba2\u5355_","order_type":"real_order","order_list":[{"order_id":"102","order_sn":"490620687965035013","pay_sn":"490620687965035013","store_id":"9","store_name":"\u5c0f\u6613\u5171\u4eab\u5e73\u53f0","buyer_id":"100013","buyer_name":"100013","add_time":"1567343964","payment_code":"wxminipay","payment_time":"1567344817","finnshed_time":"0","order_amount":"1.00","rcb_amount":"0.00","pd_amount":"0.00","points_money":"0.00","points_number":"0","evaluation_state":"0","evaluation_again_state":"0","order_state":"20","lock_state":"0","delete_state":"0","delay_time":"0","order_from":"1","order_type":"1","api_pay_time":"0","rpt_amount":"0.00","trade_no":"4200000344201909015631793153","voucher_price":"0.00","voucher_code":"","promotion_info":"","commis_rate":"10","member_invite_momey":"0.000","store_invite_momey":"0.000","cost_momey":"0.000","cost_points":"0","invite_info":"{\"commis_rate\":10,\"commis_rate_invstore\":10,\"commis_rate_invmember\":10,\"commis_rate_system\":30,\"commis_rate_points\":50,\"commis_rate_sys\":0.02}","sys_commis_momey":"0.000","seller_del":"0","seller_money":"0.000","agent_id":"1","goods_amount":"1.00","agent_commis_momey":"0.000"}],"if_buyer_repay":null}}
+[2019-09-01 21:53:38] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===rec_pay==[{"order_id":"102","order_sn":"490620687965035013","pay_sn":"490620687965035013","store_id":"9","store_name":"\u5c0f\u6613\u5171\u4eab\u5e73\u53f0","buyer_id":"100013","buyer_name":"100013","add_time":"1567343964","payment_code":"wxminipay","payment_time":"1567344817","finnshed_time":"0","order_amount":"1.00","rcb_amount":"0.00","pd_amount":"0.00","points_money":"0.00","points_number":"0","evaluation_state":"0","evaluation_again_state":"0","order_state":"20","lock_state":"0","delete_state":"0","delay_time":"0","order_from":"1","order_type":"1","api_pay_time":"0","rpt_amount":"0.00","trade_no":"4200000344201909015631793153","voucher_price":"0.00","voucher_code":"","promotion_info":"","commis_rate":"10","member_invite_momey":"0.000","store_invite_momey":"0.000","cost_momey":"0.000","cost_points":"0","invite_info":"{\"commis_rate\":10,\"commis_rate_invstore\":10,\"commis_rate_invmember\":10,\"commis_rate_system\":30,\"commis_rate_points\":50,\"commis_rate_sys\":0.02}","sys_commis_momey":"0.000","seller_del":"0","seller_money":"0.000","agent_id":"1","goods_amount":"1.00","agent_commis_momey":"0.000"}]
+[2019-09-01 21:53:38] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===rec_pay=22={"order_id":"102","order_sn":"490620687965035013","pay_sn":"490620687965035013","store_id":"9","store_name":"\u5c0f\u6613\u5171\u4eab\u5e73\u53f0","buyer_id":"100013","buyer_name":"100013","add_time":"1567343964","payment_code":"wxminipay","payment_time":"1567344817","finnshed_time":"0","order_amount":"1.00","rcb_amount":"0.00","pd_amount":"0.00","points_money":"0.00","points_number":"0","evaluation_state":"0","evaluation_again_state":"0","order_state":"20","lock_state":"0","delete_state":"0","delay_time":"0","order_from":"1","order_type":"1","api_pay_time":"0","rpt_amount":"0.00","trade_no":"4200000344201909015631793153","voucher_price":"0.00","voucher_code":"","promotion_info":"","commis_rate":"10","member_invite_momey":"0.000","store_invite_momey":"0.000","cost_momey":"0.000","cost_points":"0","invite_info":"{\"commis_rate\":10,\"commis_rate_invstore\":10,\"commis_rate_invmember\":10,\"commis_rate_system\":30,\"commis_rate_points\":50,\"commis_rate_sys\":0.02}","sys_commis_momey":"0.000","seller_del":"0","seller_money":"0.000","agent_id":"1","goods_amount":"1.00","agent_commis_momey":"0.000"}
+[2019-09-01 21:58:51] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: =======
+[2019-09-01 21:58:51] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===2====
+[2019-09-01 21:58:51] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===notifyWt=5====result==={"appid":"wx913c5f6d1a789dc1","attach":"r","bank_type":"CFT","cash_fee":"100","fee_type":"CNY","is_subscribe":"N","mch_id":"1347652401","nonce_str":"d8bc6737bda44a5afed981e98a99c103","openid":"odKIv5bc8r4VLCWRrzpoqxuteASE","out_trade_no":"9806206702722490133505","result_code":"SUCCESS","return_code":"SUCCESS","sign":"5BB5840BEE302D258EC0CB6143FE0AD5","time_end":"20190901162441","total_fee":"100","trade_type":"JSAPI","transaction_id":"4200000349201909018267625674"}
+[2019-09-01 21:58:51] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===notifyWt=5====internalSn===980620670272249013_r----{"appid":"wx913c5f6d1a789dc1","attach":"r","bank_type":"CFT","cash_fee":"100","fee_type":"CNY","is_subscribe":"N","mch_id":"1347652401","nonce_str":"d8bc6737bda44a5afed981e98a99c103","openid":"odKIv5bc8r4VLCWRrzpoqxuteASE","out_trade_no":"980620670272249013","result_code":"SUCCESS","return_code":"SUCCESS","sign":"5BB5840BEE302D258EC0CB6143FE0AD5","time_end":"20190901162441","total_fee":"100","trade_type":"JSAPI","transaction_id":"4200000349201909018267625674"}
+[2019-09-01 21:58:51] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===out_trade_no==980620670272249013_r
+[2019-09-01 21:58:51] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===getRealOrderInfo=={"pay_sn":"980620670272249013"}
+[2019-09-01 21:58:51] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===r5555=={"state":true,"msg":"","data":{"subject":"\u5b9e\u7269\u8ba2\u5355_","order_type":"real_order","order_list":[{"order_id":"100","order_sn":"980620670272249013","pay_sn":"980620670272249013","store_id":"9","store_name":"\u5c0f\u6613\u5171\u4eab\u5e73\u53f0","buyer_id":"100013","buyer_name":"100013","add_time":"1567326272","payment_code":"wxminipay","payment_time":"0","finnshed_time":"0","order_amount":"1.00","rcb_amount":"0.00","pd_amount":"0.00","points_money":"0.00","points_number":"0","evaluation_state":"0","evaluation_again_state":"0","order_state":"10","lock_state":"0","delete_state":"0","delay_time":"0","order_from":"1","order_type":"1","api_pay_time":"0","rpt_amount":"0.00","trade_no":null,"voucher_price":"0.00","voucher_code":"","promotion_info":"","commis_rate":"0","member_invite_momey":"0.000","store_invite_momey":"0.000","cost_momey":"0.000","cost_points":"0","invite_info":"","sys_commis_momey":"0.000","seller_del":"0","seller_money":"0.000","agent_id":"0","goods_amount":"1.00","agent_commis_momey":"0.000"}],"if_buyer_repay":null}}
+[2019-09-01 21:58:51] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===rec_pay==[{"order_id":"100","order_sn":"980620670272249013","pay_sn":"980620670272249013","store_id":"9","store_name":"\u5c0f\u6613\u5171\u4eab\u5e73\u53f0","buyer_id":"100013","buyer_name":"100013","add_time":"1567326272","payment_code":"wxminipay","payment_time":"0","finnshed_time":"0","order_amount":"1.00","rcb_amount":"0.00","pd_amount":"0.00","points_money":"0.00","points_number":"0","evaluation_state":"0","evaluation_again_state":"0","order_state":"10","lock_state":"0","delete_state":"0","delay_time":"0","order_from":"1","order_type":"1","api_pay_time":"0","rpt_amount":"0.00","trade_no":null,"voucher_price":"0.00","voucher_code":"","promotion_info":"","commis_rate":"0","member_invite_momey":"0.000","store_invite_momey":"0.000","cost_momey":"0.000","cost_points":"0","invite_info":"","sys_commis_momey":"0.000","seller_del":"0","seller_money":"0.000","agent_id":"0","goods_amount":"1.00","agent_commis_momey":"0.000"}]
+[2019-09-01 21:58:51] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===rec_pay=22={"order_id":"100","order_sn":"980620670272249013","pay_sn":"980620670272249013","store_id":"9","store_name":"\u5c0f\u6613\u5171\u4eab\u5e73\u53f0","buyer_id":"100013","buyer_name":"100013","add_time":"1567326272","payment_code":"wxminipay","payment_time":"0","finnshed_time":"0","order_amount":"1.00","rcb_amount":"0.00","pd_amount":"0.00","points_money":"0.00","points_number":"0","evaluation_state":"0","evaluation_again_state":"0","order_state":"10","lock_state":"0","delete_state":"0","delay_time":"0","order_from":"1","order_type":"1","api_pay_time":"0","rpt_amount":"0.00","trade_no":null,"voucher_price":"0.00","voucher_code":"","promotion_info":"","commis_rate":"0","member_invite_momey":"0.000","store_invite_momey":"0.000","cost_momey":"0.000","cost_points":"0","invite_info":"","sys_commis_momey":"0.000","seller_del":"0","seller_money":"0.000","agent_id":"0","goods_amount":"1.00","agent_commis_momey":"0.000"}
+[2019-09-01 22:00:21] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: =======
+[2019-09-01 22:00:21] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===2====
+[2019-09-01 22:00:21] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===notifyWt=5====result==={"appid":"wx913c5f6d1a789dc1","attach":"r","bank_type":"CFT","cash_fee":"100","fee_type":"CNY","is_subscribe":"N","mch_id":"1347652401","nonce_str":"05d75d78f050beec644fad9488088d02","openid":"odKIv5b6HKuksGmdZt5ZeYsx-c_c","out_trade_no":"7706206865630140131720","result_code":"SUCCESS","return_code":"SUCCESS","sign":"03E1F639B14D7E8E81AAC7CD6D4DB37E","time_end":"20190901205612","total_fee":"100","trade_type":"JSAPI","transaction_id":"4200000350201909013861171744"}
+[2019-09-01 22:00:21] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===notifyWt=5====internalSn===770620686563014013_r----{"appid":"wx913c5f6d1a789dc1","attach":"r","bank_type":"CFT","cash_fee":"100","fee_type":"CNY","is_subscribe":"N","mch_id":"1347652401","nonce_str":"05d75d78f050beec644fad9488088d02","openid":"odKIv5b6HKuksGmdZt5ZeYsx-c_c","out_trade_no":"770620686563014013","result_code":"SUCCESS","return_code":"SUCCESS","sign":"03E1F639B14D7E8E81AAC7CD6D4DB37E","time_end":"20190901205612","total_fee":"100","trade_type":"JSAPI","transaction_id":"4200000350201909013861171744"}
+[2019-09-01 22:00:21] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===out_trade_no==770620686563014013_r
+[2019-09-01 22:00:21] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===getRealOrderInfo=={"pay_sn":"770620686563014013"}
+[2019-09-01 22:00:21] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===r5555=={"state":true,"msg":"","data":{"subject":"\u5b9e\u7269\u8ba2\u5355_","order_type":"real_order","order_list":[{"order_id":"101","order_sn":"770620686563014013","pay_sn":"770620686563014013","store_id":"9","store_name":"\u5c0f\u6613\u5171\u4eab\u5e73\u53f0","buyer_id":"100013","buyer_name":"100013","add_time":"1567342562","payment_code":"wxminipay","payment_time":"1567344620","finnshed_time":"0","order_amount":"1.00","rcb_amount":"0.00","pd_amount":"0.00","points_money":"0.00","points_number":"0","evaluation_state":"0","evaluation_again_state":"0","order_state":"20","lock_state":"0","delete_state":"0","delay_time":"0","order_from":"1","order_type":"1","api_pay_time":"0","rpt_amount":"0.00","trade_no":"4200000350201909013861171744","voucher_price":"0.00","voucher_code":"","promotion_info":"","commis_rate":"10","member_invite_momey":"0.000","store_invite_momey":"0.000","cost_momey":"0.000","cost_points":"0","invite_info":"{\"commis_rate\":10,\"commis_rate_invstore\":10,\"commis_rate_invmember\":10,\"commis_rate_system\":30,\"commis_rate_points\":50,\"commis_rate_sys\":0.02}","sys_commis_momey":"0.000","seller_del":"0","seller_money":"0.000","agent_id":"1","goods_amount":"1.00","agent_commis_momey":"0.000"}],"if_buyer_repay":null}}
+[2019-09-01 22:00:21] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===rec_pay==[{"order_id":"101","order_sn":"770620686563014013","pay_sn":"770620686563014013","store_id":"9","store_name":"\u5c0f\u6613\u5171\u4eab\u5e73\u53f0","buyer_id":"100013","buyer_name":"100013","add_time":"1567342562","payment_code":"wxminipay","payment_time":"1567344620","finnshed_time":"0","order_amount":"1.00","rcb_amount":"0.00","pd_amount":"0.00","points_money":"0.00","points_number":"0","evaluation_state":"0","evaluation_again_state":"0","order_state":"20","lock_state":"0","delete_state":"0","delay_time":"0","order_from":"1","order_type":"1","api_pay_time":"0","rpt_amount":"0.00","trade_no":"4200000350201909013861171744","voucher_price":"0.00","voucher_code":"","promotion_info":"","commis_rate":"10","member_invite_momey":"0.000","store_invite_momey":"0.000","cost_momey":"0.000","cost_points":"0","invite_info":"{\"commis_rate\":10,\"commis_rate_invstore\":10,\"commis_rate_invmember\":10,\"commis_rate_system\":30,\"commis_rate_points\":50,\"commis_rate_sys\":0.02}","sys_commis_momey":"0.000","seller_del":"0","seller_money":"0.000","agent_id":"1","goods_amount":"1.00","agent_commis_momey":"0.000"}]
+[2019-09-01 22:00:21] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===rec_pay=22={"order_id":"101","order_sn":"770620686563014013","pay_sn":"770620686563014013","store_id":"9","store_name":"\u5c0f\u6613\u5171\u4eab\u5e73\u53f0","buyer_id":"100013","buyer_name":"100013","add_time":"1567342562","payment_code":"wxminipay","payment_time":"1567344620","finnshed_time":"0","order_amount":"1.00","rcb_amount":"0.00","pd_amount":"0.00","points_money":"0.00","points_number":"0","evaluation_state":"0","evaluation_again_state":"0","order_state":"20","lock_state":"0","delete_state":"0","delay_time":"0","order_from":"1","order_type":"1","api_pay_time":"0","rpt_amount":"0.00","trade_no":"4200000350201909013861171744","voucher_price":"0.00","voucher_code":"","promotion_info":"","commis_rate":"10","member_invite_momey":"0.000","store_invite_momey":"0.000","cost_momey":"0.000","cost_points":"0","invite_info":"{\"commis_rate\":10,\"commis_rate_invstore\":10,\"commis_rate_invmember\":10,\"commis_rate_system\":30,\"commis_rate_points\":50,\"commis_rate_sys\":0.02}","sys_commis_momey":"0.000","seller_del":"0","seller_money":"0.000","agent_id":"1","goods_amount":"1.00","agent_commis_momey":"0.000"}
+[2019-09-01 22:23:40] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: =======
+[2019-09-01 22:23:40] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===2====
+[2019-09-01 22:23:40] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===notifyWt=5====result==={"appid":"wx913c5f6d1a789dc1","attach":"r","bank_type":"CCB_DEBIT","cash_fee":"100","fee_type":"CNY","is_subscribe":"N","mch_id":"1347652401","nonce_str":"1eefd504838d349a25017446225becce","openid":"odKIv5b6HKuksGmdZt5ZeYsx-c_c","out_trade_no":"4906206879650350136525","result_code":"SUCCESS","return_code":"SUCCESS","sign":"1677014C0370A55E8010FA645DD642AB","time_end":"20190901211934","total_fee":"100","trade_type":"JSAPI","transaction_id":"4200000344201909015631793153"}
+[2019-09-01 22:23:40] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===notifyWt=5====internalSn===490620687965035013_r----{"appid":"wx913c5f6d1a789dc1","attach":"r","bank_type":"CCB_DEBIT","cash_fee":"100","fee_type":"CNY","is_subscribe":"N","mch_id":"1347652401","nonce_str":"1eefd504838d349a25017446225becce","openid":"odKIv5b6HKuksGmdZt5ZeYsx-c_c","out_trade_no":"490620687965035013","result_code":"SUCCESS","return_code":"SUCCESS","sign":"1677014C0370A55E8010FA645DD642AB","time_end":"20190901211934","total_fee":"100","trade_type":"JSAPI","transaction_id":"4200000344201909015631793153"}
+[2019-09-01 22:23:40] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===out_trade_no==490620687965035013_r
+[2019-09-01 22:23:40] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===getRealOrderInfo=={"pay_sn":"490620687965035013"}
+[2019-09-01 22:23:40] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===r5555=={"state":true,"msg":"","data":{"subject":"\u5b9e\u7269\u8ba2\u5355_","order_type":"real_order","order_list":[{"order_id":"102","order_sn":"490620687965035013","pay_sn":"490620687965035013","store_id":"9","store_name":"\u5c0f\u6613\u5171\u4eab\u5e73\u53f0","buyer_id":"100013","buyer_name":"100013","add_time":"1567343964","payment_code":"wxminipay","payment_time":"1567344817","finnshed_time":"0","order_amount":"1.00","rcb_amount":"0.00","pd_amount":"0.00","points_money":"0.00","points_number":"0","evaluation_state":"0","evaluation_again_state":"0","order_state":"20","lock_state":"0","delete_state":"0","delay_time":"0","order_from":"1","order_type":"1","api_pay_time":"0","rpt_amount":"0.00","trade_no":"4200000344201909015631793153","voucher_price":"0.00","voucher_code":"","promotion_info":"","commis_rate":"10","member_invite_momey":"0.000","store_invite_momey":"0.000","cost_momey":"0.000","cost_points":"0","invite_info":"{\"commis_rate\":10,\"commis_rate_invstore\":10,\"commis_rate_invmember\":10,\"commis_rate_system\":30,\"commis_rate_points\":50,\"commis_rate_sys\":0.02}","sys_commis_momey":"0.000","seller_del":"0","seller_money":"0.000","agent_id":"1","goods_amount":"1.00","agent_commis_momey":"0.000"}],"if_buyer_repay":null}}
+[2019-09-01 22:23:40] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===rec_pay==[{"order_id":"102","order_sn":"490620687965035013","pay_sn":"490620687965035013","store_id":"9","store_name":"\u5c0f\u6613\u5171\u4eab\u5e73\u53f0","buyer_id":"100013","buyer_name":"100013","add_time":"1567343964","payment_code":"wxminipay","payment_time":"1567344817","finnshed_time":"0","order_amount":"1.00","rcb_amount":"0.00","pd_amount":"0.00","points_money":"0.00","points_number":"0","evaluation_state":"0","evaluation_again_state":"0","order_state":"20","lock_state":"0","delete_state":"0","delay_time":"0","order_from":"1","order_type":"1","api_pay_time":"0","rpt_amount":"0.00","trade_no":"4200000344201909015631793153","voucher_price":"0.00","voucher_code":"","promotion_info":"","commis_rate":"10","member_invite_momey":"0.000","store_invite_momey":"0.000","cost_momey":"0.000","cost_points":"0","invite_info":"{\"commis_rate\":10,\"commis_rate_invstore\":10,\"commis_rate_invmember\":10,\"commis_rate_system\":30,\"commis_rate_points\":50,\"commis_rate_sys\":0.02}","sys_commis_momey":"0.000","seller_del":"0","seller_money":"0.000","agent_id":"1","goods_amount":"1.00","agent_commis_momey":"0.000"}]
+[2019-09-01 22:23:40] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===rec_pay=22={"order_id":"102","order_sn":"490620687965035013","pay_sn":"490620687965035013","store_id":"9","store_name":"\u5c0f\u6613\u5171\u4eab\u5e73\u53f0","buyer_id":"100013","buyer_name":"100013","add_time":"1567343964","payment_code":"wxminipay","payment_time":"1567344817","finnshed_time":"0","order_amount":"1.00","rcb_amount":"0.00","pd_amount":"0.00","points_money":"0.00","points_number":"0","evaluation_state":"0","evaluation_again_state":"0","order_state":"20","lock_state":"0","delete_state":"0","delay_time":"0","order_from":"1","order_type":"1","api_pay_time":"0","rpt_amount":"0.00","trade_no":"4200000344201909015631793153","voucher_price":"0.00","voucher_code":"","promotion_info":"","commis_rate":"10","member_invite_momey":"0.000","store_invite_momey":"0.000","cost_momey":"0.000","cost_points":"0","invite_info":"{\"commis_rate\":10,\"commis_rate_invstore\":10,\"commis_rate_invmember\":10,\"commis_rate_system\":30,\"commis_rate_points\":50,\"commis_rate_sys\":0.02}","sys_commis_momey":"0.000","seller_del":"0","seller_money":"0.000","agent_id":"1","goods_amount":"1.00","agent_commis_momey":"0.000"}
+[2019-09-01 22:30:23] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: =======
+[2019-09-01 22:30:23] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===2====
+[2019-09-01 22:30:23] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===notifyWt=5====result==={"appid":"wx913c5f6d1a789dc1","attach":"r","bank_type":"CFT","cash_fee":"100","fee_type":"CNY","is_subscribe":"N","mch_id":"1347652401","nonce_str":"05d75d78f050beec644fad9488088d02","openid":"odKIv5b6HKuksGmdZt5ZeYsx-c_c","out_trade_no":"7706206865630140131720","result_code":"SUCCESS","return_code":"SUCCESS","sign":"03E1F639B14D7E8E81AAC7CD6D4DB37E","time_end":"20190901205612","total_fee":"100","trade_type":"JSAPI","transaction_id":"4200000350201909013861171744"}
+[2019-09-01 22:30:23] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===notifyWt=5====internalSn===770620686563014013_r----{"appid":"wx913c5f6d1a789dc1","attach":"r","bank_type":"CFT","cash_fee":"100","fee_type":"CNY","is_subscribe":"N","mch_id":"1347652401","nonce_str":"05d75d78f050beec644fad9488088d02","openid":"odKIv5b6HKuksGmdZt5ZeYsx-c_c","out_trade_no":"770620686563014013","result_code":"SUCCESS","return_code":"SUCCESS","sign":"03E1F639B14D7E8E81AAC7CD6D4DB37E","time_end":"20190901205612","total_fee":"100","trade_type":"JSAPI","transaction_id":"4200000350201909013861171744"}
+[2019-09-01 22:30:23] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===out_trade_no==770620686563014013_r
+[2019-09-01 22:30:23] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===getRealOrderInfo=={"pay_sn":"770620686563014013"}
+[2019-09-01 22:30:23] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===r5555=={"state":true,"msg":"","data":{"subject":"\u5b9e\u7269\u8ba2\u5355_","order_type":"real_order","order_list":[{"order_id":"101","order_sn":"770620686563014013","pay_sn":"770620686563014013","store_id":"9","store_name":"\u5c0f\u6613\u5171\u4eab\u5e73\u53f0","buyer_id":"100013","buyer_name":"100013","add_time":"1567342562","payment_code":"wxminipay","payment_time":"1567344620","finnshed_time":"0","order_amount":"1.00","rcb_amount":"0.00","pd_amount":"0.00","points_money":"0.00","points_number":"0","evaluation_state":"0","evaluation_again_state":"0","order_state":"20","lock_state":"0","delete_state":"0","delay_time":"0","order_from":"1","order_type":"1","api_pay_time":"0","rpt_amount":"0.00","trade_no":"4200000350201909013861171744","voucher_price":"0.00","voucher_code":"","promotion_info":"","commis_rate":"10","member_invite_momey":"0.000","store_invite_momey":"0.000","cost_momey":"0.000","cost_points":"0","invite_info":"{\"commis_rate\":10,\"commis_rate_invstore\":10,\"commis_rate_invmember\":10,\"commis_rate_system\":30,\"commis_rate_points\":50,\"commis_rate_sys\":0.02}","sys_commis_momey":"0.000","seller_del":"0","seller_money":"0.000","agent_id":"1","goods_amount":"1.00","agent_commis_momey":"0.000"}],"if_buyer_repay":null}}
+[2019-09-01 22:30:23] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===rec_pay==[{"order_id":"101","order_sn":"770620686563014013","pay_sn":"770620686563014013","store_id":"9","store_name":"\u5c0f\u6613\u5171\u4eab\u5e73\u53f0","buyer_id":"100013","buyer_name":"100013","add_time":"1567342562","payment_code":"wxminipay","payment_time":"1567344620","finnshed_time":"0","order_amount":"1.00","rcb_amount":"0.00","pd_amount":"0.00","points_money":"0.00","points_number":"0","evaluation_state":"0","evaluation_again_state":"0","order_state":"20","lock_state":"0","delete_state":"0","delay_time":"0","order_from":"1","order_type":"1","api_pay_time":"0","rpt_amount":"0.00","trade_no":"4200000350201909013861171744","voucher_price":"0.00","voucher_code":"","promotion_info":"","commis_rate":"10","member_invite_momey":"0.000","store_invite_momey":"0.000","cost_momey":"0.000","cost_points":"0","invite_info":"{\"commis_rate\":10,\"commis_rate_invstore\":10,\"commis_rate_invmember\":10,\"commis_rate_system\":30,\"commis_rate_points\":50,\"commis_rate_sys\":0.02}","sys_commis_momey":"0.000","seller_del":"0","seller_money":"0.000","agent_id":"1","goods_amount":"1.00","agent_commis_momey":"0.000"}]
+[2019-09-01 22:30:23] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===rec_pay=22={"order_id":"101","order_sn":"770620686563014013","pay_sn":"770620686563014013","store_id":"9","store_name":"\u5c0f\u6613\u5171\u4eab\u5e73\u53f0","buyer_id":"100013","buyer_name":"100013","add_time":"1567342562","payment_code":"wxminipay","payment_time":"1567344620","finnshed_time":"0","order_amount":"1.00","rcb_amount":"0.00","pd_amount":"0.00","points_money":"0.00","points_number":"0","evaluation_state":"0","evaluation_again_state":"0","order_state":"20","lock_state":"0","delete_state":"0","delay_time":"0","order_from":"1","order_type":"1","api_pay_time":"0","rpt_amount":"0.00","trade_no":"4200000350201909013861171744","voucher_price":"0.00","voucher_code":"","promotion_info":"","commis_rate":"10","member_invite_momey":"0.000","store_invite_momey":"0.000","cost_momey":"0.000","cost_points":"0","invite_info":"{\"commis_rate\":10,\"commis_rate_invstore\":10,\"commis_rate_invmember\":10,\"commis_rate_system\":30,\"commis_rate_points\":50,\"commis_rate_sys\":0.02}","sys_commis_momey":"0.000","seller_del":"0","seller_money":"0.000","agent_id":"1","goods_amount":"1.00","agent_commis_momey":"0.000"}
+[2019-09-01 22:53:41] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: =======
+[2019-09-01 22:53:41] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===2====
+[2019-09-01 22:53:41] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===notifyWt=5====result==={"appid":"wx913c5f6d1a789dc1","attach":"r","bank_type":"CCB_DEBIT","cash_fee":"100","fee_type":"CNY","is_subscribe":"N","mch_id":"1347652401","nonce_str":"1eefd504838d349a25017446225becce","openid":"odKIv5b6HKuksGmdZt5ZeYsx-c_c","out_trade_no":"4906206879650350136525","result_code":"SUCCESS","return_code":"SUCCESS","sign":"1677014C0370A55E8010FA645DD642AB","time_end":"20190901211934","total_fee":"100","trade_type":"JSAPI","transaction_id":"4200000344201909015631793153"}
+[2019-09-01 22:53:41] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===notifyWt=5====internalSn===490620687965035013_r----{"appid":"wx913c5f6d1a789dc1","attach":"r","bank_type":"CCB_DEBIT","cash_fee":"100","fee_type":"CNY","is_subscribe":"N","mch_id":"1347652401","nonce_str":"1eefd504838d349a25017446225becce","openid":"odKIv5b6HKuksGmdZt5ZeYsx-c_c","out_trade_no":"490620687965035013","result_code":"SUCCESS","return_code":"SUCCESS","sign":"1677014C0370A55E8010FA645DD642AB","time_end":"20190901211934","total_fee":"100","trade_type":"JSAPI","transaction_id":"4200000344201909015631793153"}
+[2019-09-01 22:53:41] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===out_trade_no==490620687965035013_r
+[2019-09-01 22:53:41] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===getRealOrderInfo=={"pay_sn":"490620687965035013"}
+[2019-09-01 22:53:41] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===r5555=={"state":true,"msg":"","data":{"subject":"\u5b9e\u7269\u8ba2\u5355_","order_type":"real_order","order_list":[{"order_id":"102","order_sn":"490620687965035013","pay_sn":"490620687965035013","store_id":"9","store_name":"\u5c0f\u6613\u5171\u4eab\u5e73\u53f0","buyer_id":"100013","buyer_name":"100013","add_time":"1567343964","payment_code":"wxminipay","payment_time":"1567344817","finnshed_time":"0","order_amount":"1.00","rcb_amount":"0.00","pd_amount":"0.00","points_money":"0.00","points_number":"0","evaluation_state":"0","evaluation_again_state":"0","order_state":"20","lock_state":"0","delete_state":"0","delay_time":"0","order_from":"1","order_type":"1","api_pay_time":"0","rpt_amount":"0.00","trade_no":"4200000344201909015631793153","voucher_price":"0.00","voucher_code":"","promotion_info":"","commis_rate":"10","member_invite_momey":"0.000","store_invite_momey":"0.000","cost_momey":"0.000","cost_points":"0","invite_info":"{\"commis_rate\":10,\"commis_rate_invstore\":10,\"commis_rate_invmember\":10,\"commis_rate_system\":30,\"commis_rate_points\":50,\"commis_rate_sys\":0.02}","sys_commis_momey":"0.000","seller_del":"0","seller_money":"0.000","agent_id":"1","goods_amount":"1.00","agent_commis_momey":"0.000"}],"if_buyer_repay":null}}
+[2019-09-01 22:53:41] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===rec_pay==[{"order_id":"102","order_sn":"490620687965035013","pay_sn":"490620687965035013","store_id":"9","store_name":"\u5c0f\u6613\u5171\u4eab\u5e73\u53f0","buyer_id":"100013","buyer_name":"100013","add_time":"1567343964","payment_code":"wxminipay","payment_time":"1567344817","finnshed_time":"0","order_amount":"1.00","rcb_amount":"0.00","pd_amount":"0.00","points_money":"0.00","points_number":"0","evaluation_state":"0","evaluation_again_state":"0","order_state":"20","lock_state":"0","delete_state":"0","delay_time":"0","order_from":"1","order_type":"1","api_pay_time":"0","rpt_amount":"0.00","trade_no":"4200000344201909015631793153","voucher_price":"0.00","voucher_code":"","promotion_info":"","commis_rate":"10","member_invite_momey":"0.000","store_invite_momey":"0.000","cost_momey":"0.000","cost_points":"0","invite_info":"{\"commis_rate\":10,\"commis_rate_invstore\":10,\"commis_rate_invmember\":10,\"commis_rate_system\":30,\"commis_rate_points\":50,\"commis_rate_sys\":0.02}","sys_commis_momey":"0.000","seller_del":"0","seller_money":"0.000","agent_id":"1","goods_amount":"1.00","agent_commis_momey":"0.000"}]
+[2019-09-01 22:53:41] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===rec_pay=22={"order_id":"102","order_sn":"490620687965035013","pay_sn":"490620687965035013","store_id":"9","store_name":"\u5c0f\u6613\u5171\u4eab\u5e73\u53f0","buyer_id":"100013","buyer_name":"100013","add_time":"1567343964","payment_code":"wxminipay","payment_time":"1567344817","finnshed_time":"0","order_amount":"1.00","rcb_amount":"0.00","pd_amount":"0.00","points_money":"0.00","points_number":"0","evaluation_state":"0","evaluation_again_state":"0","order_state":"20","lock_state":"0","delete_state":"0","delay_time":"0","order_from":"1","order_type":"1","api_pay_time":"0","rpt_amount":"0.00","trade_no":"4200000344201909015631793153","voucher_price":"0.00","voucher_code":"","promotion_info":"","commis_rate":"10","member_invite_momey":"0.000","store_invite_momey":"0.000","cost_momey":"0.000","cost_points":"0","invite_info":"{\"commis_rate\":10,\"commis_rate_invstore\":10,\"commis_rate_invmember\":10,\"commis_rate_system\":30,\"commis_rate_points\":50,\"commis_rate_sys\":0.02}","sys_commis_momey":"0.000","seller_del":"0","seller_money":"0.000","agent_id":"1","goods_amount":"1.00","agent_commis_momey":"0.000"}
+[2019-09-01 22:55:52] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: =======
+[2019-09-01 22:55:52] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===2====
+[2019-09-01 22:55:52] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===notifyWt=5====result==={"appid":"wx913c5f6d1a789dc1","attach":"r","bank_type":"CFT","cash_fee":"100","fee_type":"CNY","is_subscribe":"N","mch_id":"1347652401","nonce_str":"937ae7193f44a93eb38d9b8ca8796321","openid":"odKIv5bc8r4VLCWRrzpoqxuteASE","out_trade_no":"4606206071445240137210","result_code":"SUCCESS","return_code":"SUCCESS","sign":"DCCC36166B8E43E388F26DE668C68A5E","time_end":"20190831232143","total_fee":"100","trade_type":"JSAPI","transaction_id":"4200000355201908310596065514"}
+[2019-09-01 22:55:52] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===notifyWt=5====internalSn===460620607144524013_r----{"appid":"wx913c5f6d1a789dc1","attach":"r","bank_type":"CFT","cash_fee":"100","fee_type":"CNY","is_subscribe":"N","mch_id":"1347652401","nonce_str":"937ae7193f44a93eb38d9b8ca8796321","openid":"odKIv5bc8r4VLCWRrzpoqxuteASE","out_trade_no":"460620607144524013","result_code":"SUCCESS","return_code":"SUCCESS","sign":"DCCC36166B8E43E388F26DE668C68A5E","time_end":"20190831232143","total_fee":"100","trade_type":"JSAPI","transaction_id":"4200000355201908310596065514"}
+[2019-09-01 22:55:52] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===out_trade_no==460620607144524013_r
+[2019-09-01 22:55:52] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===getRealOrderInfo=={"pay_sn":"460620607144524013"}
+[2019-09-01 22:55:52] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===r5555=={"state":true,"msg":"","data":{"subject":"\u5b9e\u7269\u8ba2\u5355_","order_type":"real_order","order_list":[{"order_id":"96","order_sn":"460620607144524013","pay_sn":"460620607144524013","store_id":"9","store_name":"\u5c0f\u6613\u5171\u4eab\u5e73\u53f0","buyer_id":"100013","buyer_name":"100013","add_time":"1567263144","payment_code":"wxminipay","payment_time":"0","finnshed_time":"0","order_amount":"1.00","rcb_amount":"0.00","pd_amount":"0.00","points_money":"0.00","points_number":"0","evaluation_state":"0","evaluation_again_state":"0","order_state":"10","lock_state":"0","delete_state":"0","delay_time":"0","order_from":"1","order_type":"1","api_pay_time":"0","rpt_amount":"0.00","trade_no":null,"voucher_price":"0.00","voucher_code":"","promotion_info":"","commis_rate":"0","member_invite_momey":"0.000","store_invite_momey":"0.000","cost_momey":"0.000","cost_points":"0","invite_info":"","sys_commis_momey":"0.000","seller_del":"0","seller_money":"0.000","agent_id":"0","goods_amount":"1.00","agent_commis_momey":"0.000"}],"if_buyer_repay":null}}
+[2019-09-01 22:55:52] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===rec_pay==[{"order_id":"96","order_sn":"460620607144524013","pay_sn":"460620607144524013","store_id":"9","store_name":"\u5c0f\u6613\u5171\u4eab\u5e73\u53f0","buyer_id":"100013","buyer_name":"100013","add_time":"1567263144","payment_code":"wxminipay","payment_time":"0","finnshed_time":"0","order_amount":"1.00","rcb_amount":"0.00","pd_amount":"0.00","points_money":"0.00","points_number":"0","evaluation_state":"0","evaluation_again_state":"0","order_state":"10","lock_state":"0","delete_state":"0","delay_time":"0","order_from":"1","order_type":"1","api_pay_time":"0","rpt_amount":"0.00","trade_no":null,"voucher_price":"0.00","voucher_code":"","promotion_info":"","commis_rate":"0","member_invite_momey":"0.000","store_invite_momey":"0.000","cost_momey":"0.000","cost_points":"0","invite_info":"","sys_commis_momey":"0.000","seller_del":"0","seller_money":"0.000","agent_id":"0","goods_amount":"1.00","agent_commis_momey":"0.000"}]
+[2019-09-01 22:55:52] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===rec_pay=22={"order_id":"96","order_sn":"460620607144524013","pay_sn":"460620607144524013","store_id":"9","store_name":"\u5c0f\u6613\u5171\u4eab\u5e73\u53f0","buyer_id":"100013","buyer_name":"100013","add_time":"1567263144","payment_code":"wxminipay","payment_time":"0","finnshed_time":"0","order_amount":"1.00","rcb_amount":"0.00","pd_amount":"0.00","points_money":"0.00","points_number":"0","evaluation_state":"0","evaluation_again_state":"0","order_state":"10","lock_state":"0","delete_state":"0","delay_time":"0","order_from":"1","order_type":"1","api_pay_time":"0","rpt_amount":"0.00","trade_no":null,"voucher_price":"0.00","voucher_code":"","promotion_info":"","commis_rate":"0","member_invite_momey":"0.000","store_invite_momey":"0.000","cost_momey":"0.000","cost_points":"0","invite_info":"","sys_commis_momey":"0.000","seller_del":"0","seller_money":"0.000","agent_id":"0","goods_amount":"1.00","agent_commis_momey":"0.000"}
+[2019-09-01 23:30:24] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: =======
+[2019-09-01 23:30:24] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===2====
+[2019-09-01 23:30:24] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===notifyWt=5====result==={"appid":"wx913c5f6d1a789dc1","attach":"r","bank_type":"CFT","cash_fee":"100","fee_type":"CNY","is_subscribe":"N","mch_id":"1347652401","nonce_str":"05d75d78f050beec644fad9488088d02","openid":"odKIv5b6HKuksGmdZt5ZeYsx-c_c","out_trade_no":"7706206865630140131720","result_code":"SUCCESS","return_code":"SUCCESS","sign":"03E1F639B14D7E8E81AAC7CD6D4DB37E","time_end":"20190901205612","total_fee":"100","trade_type":"JSAPI","transaction_id":"4200000350201909013861171744"}
+[2019-09-01 23:30:24] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===notifyWt=5====internalSn===770620686563014013_r----{"appid":"wx913c5f6d1a789dc1","attach":"r","bank_type":"CFT","cash_fee":"100","fee_type":"CNY","is_subscribe":"N","mch_id":"1347652401","nonce_str":"05d75d78f050beec644fad9488088d02","openid":"odKIv5b6HKuksGmdZt5ZeYsx-c_c","out_trade_no":"770620686563014013","result_code":"SUCCESS","return_code":"SUCCESS","sign":"03E1F639B14D7E8E81AAC7CD6D4DB37E","time_end":"20190901205612","total_fee":"100","trade_type":"JSAPI","transaction_id":"4200000350201909013861171744"}
+[2019-09-01 23:30:24] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===out_trade_no==770620686563014013_r
+[2019-09-01 23:30:24] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===getRealOrderInfo=={"pay_sn":"770620686563014013"}
+[2019-09-01 23:30:24] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===r5555=={"state":true,"msg":"","data":{"subject":"\u5b9e\u7269\u8ba2\u5355_","order_type":"real_order","order_list":[{"order_id":"101","order_sn":"770620686563014013","pay_sn":"770620686563014013","store_id":"9","store_name":"\u5c0f\u6613\u5171\u4eab\u5e73\u53f0","buyer_id":"100013","buyer_name":"100013","add_time":"1567342562","payment_code":"wxminipay","payment_time":"1567344620","finnshed_time":"0","order_amount":"1.00","rcb_amount":"0.00","pd_amount":"0.00","points_money":"0.00","points_number":"0","evaluation_state":"0","evaluation_again_state":"0","order_state":"20","lock_state":"0","delete_state":"0","delay_time":"0","order_from":"1","order_type":"1","api_pay_time":"0","rpt_amount":"0.00","trade_no":"4200000350201909013861171744","voucher_price":"0.00","voucher_code":"","promotion_info":"","commis_rate":"10","member_invite_momey":"0.000","store_invite_momey":"0.000","cost_momey":"0.000","cost_points":"0","invite_info":"{\"commis_rate\":10,\"commis_rate_invstore\":10,\"commis_rate_invmember\":10,\"commis_rate_system\":30,\"commis_rate_points\":50,\"commis_rate_sys\":0.02}","sys_commis_momey":"0.000","seller_del":"0","seller_money":"0.000","agent_id":"1","goods_amount":"1.00","agent_commis_momey":"0.000"}],"if_buyer_repay":null}}
+[2019-09-01 23:30:24] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===rec_pay==[{"order_id":"101","order_sn":"770620686563014013","pay_sn":"770620686563014013","store_id":"9","store_name":"\u5c0f\u6613\u5171\u4eab\u5e73\u53f0","buyer_id":"100013","buyer_name":"100013","add_time":"1567342562","payment_code":"wxminipay","payment_time":"1567344620","finnshed_time":"0","order_amount":"1.00","rcb_amount":"0.00","pd_amount":"0.00","points_money":"0.00","points_number":"0","evaluation_state":"0","evaluation_again_state":"0","order_state":"20","lock_state":"0","delete_state":"0","delay_time":"0","order_from":"1","order_type":"1","api_pay_time":"0","rpt_amount":"0.00","trade_no":"4200000350201909013861171744","voucher_price":"0.00","voucher_code":"","promotion_info":"","commis_rate":"10","member_invite_momey":"0.000","store_invite_momey":"0.000","cost_momey":"0.000","cost_points":"0","invite_info":"{\"commis_rate\":10,\"commis_rate_invstore\":10,\"commis_rate_invmember\":10,\"commis_rate_system\":30,\"commis_rate_points\":50,\"commis_rate_sys\":0.02}","sys_commis_momey":"0.000","seller_del":"0","seller_money":"0.000","agent_id":"1","goods_amount":"1.00","agent_commis_momey":"0.000"}]
+[2019-09-01 23:30:24] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===rec_pay=22={"order_id":"101","order_sn":"770620686563014013","pay_sn":"770620686563014013","store_id":"9","store_name":"\u5c0f\u6613\u5171\u4eab\u5e73\u53f0","buyer_id":"100013","buyer_name":"100013","add_time":"1567342562","payment_code":"wxminipay","payment_time":"1567344620","finnshed_time":"0","order_amount":"1.00","rcb_amount":"0.00","pd_amount":"0.00","points_money":"0.00","points_number":"0","evaluation_state":"0","evaluation_again_state":"0","order_state":"20","lock_state":"0","delete_state":"0","delay_time":"0","order_from":"1","order_type":"1","api_pay_time":"0","rpt_amount":"0.00","trade_no":"4200000350201909013861171744","voucher_price":"0.00","voucher_code":"","promotion_info":"","commis_rate":"10","member_invite_momey":"0.000","store_invite_momey":"0.000","cost_momey":"0.000","cost_points":"0","invite_info":"{\"commis_rate\":10,\"commis_rate_invstore\":10,\"commis_rate_invmember\":10,\"commis_rate_system\":30,\"commis_rate_points\":50,\"commis_rate_sys\":0.02}","sys_commis_momey":"0.000","seller_del":"0","seller_money":"0.000","agent_id":"1","goods_amount":"1.00","agent_commis_momey":"0.000"}
+[2019-09-01 23:53:42] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: =======
+[2019-09-01 23:53:42] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===2====
+[2019-09-01 23:53:42] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===notifyWt=5====result==={"appid":"wx913c5f6d1a789dc1","attach":"r","bank_type":"CCB_DEBIT","cash_fee":"100","fee_type":"CNY","is_subscribe":"N","mch_id":"1347652401","nonce_str":"1eefd504838d349a25017446225becce","openid":"odKIv5b6HKuksGmdZt5ZeYsx-c_c","out_trade_no":"4906206879650350136525","result_code":"SUCCESS","return_code":"SUCCESS","sign":"1677014C0370A55E8010FA645DD642AB","time_end":"20190901211934","total_fee":"100","trade_type":"JSAPI","transaction_id":"4200000344201909015631793153"}
+[2019-09-01 23:53:42] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===notifyWt=5====internalSn===490620687965035013_r----{"appid":"wx913c5f6d1a789dc1","attach":"r","bank_type":"CCB_DEBIT","cash_fee":"100","fee_type":"CNY","is_subscribe":"N","mch_id":"1347652401","nonce_str":"1eefd504838d349a25017446225becce","openid":"odKIv5b6HKuksGmdZt5ZeYsx-c_c","out_trade_no":"490620687965035013","result_code":"SUCCESS","return_code":"SUCCESS","sign":"1677014C0370A55E8010FA645DD642AB","time_end":"20190901211934","total_fee":"100","trade_type":"JSAPI","transaction_id":"4200000344201909015631793153"}
+[2019-09-01 23:53:42] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===out_trade_no==490620687965035013_r
+[2019-09-01 23:53:42] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===getRealOrderInfo=={"pay_sn":"490620687965035013"}
+[2019-09-01 23:53:42] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===r5555=={"state":true,"msg":"","data":{"subject":"\u5b9e\u7269\u8ba2\u5355_","order_type":"real_order","order_list":[{"order_id":"102","order_sn":"490620687965035013","pay_sn":"490620687965035013","store_id":"9","store_name":"\u5c0f\u6613\u5171\u4eab\u5e73\u53f0","buyer_id":"100013","buyer_name":"100013","add_time":"1567343964","payment_code":"wxminipay","payment_time":"1567344817","finnshed_time":"0","order_amount":"1.00","rcb_amount":"0.00","pd_amount":"0.00","points_money":"0.00","points_number":"0","evaluation_state":"0","evaluation_again_state":"0","order_state":"20","lock_state":"0","delete_state":"0","delay_time":"0","order_from":"1","order_type":"1","api_pay_time":"0","rpt_amount":"0.00","trade_no":"4200000344201909015631793153","voucher_price":"0.00","voucher_code":"","promotion_info":"","commis_rate":"10","member_invite_momey":"0.000","store_invite_momey":"0.000","cost_momey":"0.000","cost_points":"0","invite_info":"{\"commis_rate\":10,\"commis_rate_invstore\":10,\"commis_rate_invmember\":10,\"commis_rate_system\":30,\"commis_rate_points\":50,\"commis_rate_sys\":0.02}","sys_commis_momey":"0.000","seller_del":"0","seller_money":"0.000","agent_id":"1","goods_amount":"1.00","agent_commis_momey":"0.000"}],"if_buyer_repay":null}}
+[2019-09-01 23:53:42] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===rec_pay==[{"order_id":"102","order_sn":"490620687965035013","pay_sn":"490620687965035013","store_id":"9","store_name":"\u5c0f\u6613\u5171\u4eab\u5e73\u53f0","buyer_id":"100013","buyer_name":"100013","add_time":"1567343964","payment_code":"wxminipay","payment_time":"1567344817","finnshed_time":"0","order_amount":"1.00","rcb_amount":"0.00","pd_amount":"0.00","points_money":"0.00","points_number":"0","evaluation_state":"0","evaluation_again_state":"0","order_state":"20","lock_state":"0","delete_state":"0","delay_time":"0","order_from":"1","order_type":"1","api_pay_time":"0","rpt_amount":"0.00","trade_no":"4200000344201909015631793153","voucher_price":"0.00","voucher_code":"","promotion_info":"","commis_rate":"10","member_invite_momey":"0.000","store_invite_momey":"0.000","cost_momey":"0.000","cost_points":"0","invite_info":"{\"commis_rate\":10,\"commis_rate_invstore\":10,\"commis_rate_invmember\":10,\"commis_rate_system\":30,\"commis_rate_points\":50,\"commis_rate_sys\":0.02}","sys_commis_momey":"0.000","seller_del":"0","seller_money":"0.000","agent_id":"1","goods_amount":"1.00","agent_commis_momey":"0.000"}]
+[2019-09-01 23:53:42] /api/mobile/api/payment/wxminipay/notify_url.php ( w=payment&t=notify ) 
+ERR: ===rec_pay=22={"order_id":"102","order_sn":"490620687965035013","pay_sn":"490620687965035013","store_id":"9","store_name":"\u5c0f\u6613\u5171\u4eab\u5e73\u53f0","buyer_id":"100013","buyer_name":"100013","add_time":"1567343964","payment_code":"wxminipay","payment_time":"1567344817","finnshed_time":"0","order_amount":"1.00","rcb_amount":"0.00","pd_amount":"0.00","points_money":"0.00","points_number":"0","evaluation_state":"0","evaluation_again_state":"0","order_state":"20","lock_state":"0","delete_state":"0","delay_time":"0","order_from":"1","order_type":"1","api_pay_time":"0","rpt_amount":"0.00","trade_no":"4200000344201909015631793153","voucher_price":"0.00","voucher_code":"","promotion_info":"","commis_rate":"10","member_invite_momey":"0.000","store_invite_momey":"0.000","cost_momey":"0.000","cost_points":"0","invite_info":"{\"commis_rate\":10,\"commis_rate_invstore\":10,\"commis_rate_invmember\":10,\"commis_rate_system\":30,\"commis_rate_points\":50,\"commis_rate_sys\":0.02}","sys_commis_momey":"0.000","seller_del":"0","seller_money":"0.000","agent_id":"1","goods_amount":"1.00","agent_commis_momey":"0.000"}

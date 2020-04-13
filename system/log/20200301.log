@@ -1,0 +1,3 @@
+[2020-03-01 00:12:15] http://www.fhlego.com/api/mobile/index.php/index/pglist ( w=index&t=pglist ) 
+ERR: Db Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-8,8' at line 1
+SELECT * FROM `shopwt_points_goods` WHERE ( pgoods_show = '1' ) AND ( pgoods_state = '0' ) AND ( pgoods_commend = '1' ) AND ( pgoods_endtime > '1582992735' ) AND ( city_id = '1996' ) ORDER BY pgoods_sort asc,pgoods_id desc LIMIT -8,8  

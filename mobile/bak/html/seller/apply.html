@@ -1,0 +1,129 @@
+<!doctype html>  
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <meta name="apple-touch-fullscreen" content="yes" />
+        <meta name="format-detection" content="telephone=no"/>
+        <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+        <meta name="format-detection" content="telephone=no"/>
+        <meta name="msapplication-tap-highlight" content="no" />
+        <meta name="viewport" content="initial-scale=1,maximum-scale=1,minimum-scale=1" />
+        <title>商家入驻</title>
+        <link rel="stylesheet" type="text/css" href="../../css/common.css">
+        <link rel="stylesheet" type="text/css" href="../../css/nctouch_seller.css">
+        <link rel="stylesheet" type="text/css" href="../../css/seller-apply.css">
+        <link rel="stylesheet" type="text/css" href="../../lib/font-awesome/css/font-awesome.min.css">
+        <link rel="stylesheet" type="text/css" href="../../lib/vertical-timeline/css/style.css">
+    </head>
+    <body class="page page-seller-apply">
+        <header id="header" class="transparent">
+            <div class="header-box">
+                <div class="header-l"><a href="../../seller.html"><i class="fa fa-home"></i></a></div>
+                <div class="header-title">
+                    <h1>商家入驻</h1>
+                </div>
+                <div class="header-r"></div>
+            </div>
+        </header>
+        <div class="scroller-body">
+            <div class="scroller-box">
+                <div class="member-top">
+                    <div class="member-info">
+                        <a class="default-avatar" href="javascript:;"><i class="fa fa-cart-plus fa-2x"></i></a>
+                        <p>商家入驻</p>
+                    </div>
+                    <div class="member-collect">
+                        <span><a href="do-apply.html"><i class="fa fa-user-plus"></i><p>入驻申请</p></a> </span>
+                        <span><a href="do-apply.html"><i class="fa fa-search-plus"></i><p>进度查询</p></a> </span>
+                    </div>
+                </div>
+                <div class="adv_list"></div>
+                <div class="member-center apply-center box-wrap-grid">
+                    <dl class="mt5">
+                        <dt>
+                            <a href="javascript:;"><h3><i class="fa fa-circle-o"></i>入驻流程</h3></a>
+                        </dt>
+                        <dd>
+                            <section id="cd-timeline" class="cd-container">
+                                <div class="cd-timeline-block">
+                                    <div class="cd-timeline-img cd-picture step-1">
+                                        <i class="fa fa-pencil-square-o"></i>
+                                    </div>
+                                    <div class="cd-timeline-content">
+                                        <h2>1、签署入驻协议</h2>
+                                        <span class="cd-date"></span>
+                                    </div>
+                                </div>
+                                <div class="cd-timeline-block">
+                                    <div class="cd-timeline-img cd-movie step-2">
+                                        <i class="fa fa-file-text-o"></i>
+                                    </div>
+                                    <div class="cd-timeline-content">
+                                        <h2>2、商家信息提交</h2>
+                                        <span class="cd-date"></span>
+                                    </div>
+                                </div>
+                                <div class="cd-timeline-block">
+                                    <div class="cd-timeline-img cd-picture step-3">
+                                        <i class="fa fa-legal"></i>
+                                    </div>
+                                    <div class="cd-timeline-content">
+                                        <h2>3、平台审核资质</h2>
+                                        <span class="cd-date"></span>
+                                    </div>
+                                </div>
+                                <div class="cd-timeline-block">
+                                    <div class="cd-timeline-img cd-location step-4">
+                                        <i class="fa fa-money"></i>
+                                    </div>
+                                    <div class="cd-timeline-content">
+                                        <h2>4、商家缴纳费用</h2>
+                                        <span class="cd-date"></span>
+                                    </div>
+                                </div>
+
+                                <div class="cd-timeline-block">
+                                    <div class="cd-timeline-img cd-picture step-5">
+                                        <i class="fa fa-smile-o"></i>
+                                    </div>
+                                    <div class="cd-timeline-content">
+                                        <h2>5、店铺开通</h2>
+                                        <span class="cd-date"></span>
+                                    </div>
+                                </div>
+                            </section>
+                        </dd>
+                    </dl>
+                    <dl class="mt5">
+                        <a id="btn-apply" class="btn btn-apply" href="do-apply.html">马上入驻</a>
+                    </dl>
+                </div>
+                <div class="fix-bottom-foot"></div>
+            </div>
+        </div>
+        <footer id="footer" class="bottom"></footer>
+        <script type="text/javascript" src="../../js/config.js"></script>
+        <script type="text/javascript" src="../../js/jquery.min.js"></script>
+        <script type="text/javascript" src="../../js/template.js"></script>
+        <script type="text/javascript" src="../../js/common.js"></script>
+        <script type="text/javascript" src="../../js/swipe.js"></script>
+        <script type="text/javascript" src="../../js/simple-plugin.js"></script>
+        <script type="text/javascript" src="../../js/html/footer.js"></script>
+        <script type="text/javascript" src="../../js/html/seller/apply.js"></script>
+        <script type="text/javascript" src="../../lib/vertical-timeline/js/modernizr.js"></script>
+        <script type="text/javascript" src="../../lib/vertical-timeline/js/main.js"></script>
+        <script type="text/html" id="pic_list">
+            <div class="swipe-wrap">
+                <% for (var i in pic) { %>
+                <div class="item">
+                    <a href="javascript:;">
+                        <img  style="background: url(<%= pic[i] %>) no-repeat center center;">
+                    </a>
+                </div>
+                <% } %>
+            </div>
+        </script>
+    </body>
+</html>

@@ -1,0 +1,12 @@
+[2020-01-13 20:19:20] /api/mobile/index.php/member_index/realverify_add ( w=member_index&t=realverify_add ) 
+ERR: {"truename":"\u5f20\u7ef4","cardid":"433123198705100925","iddate":"2034-07-14","pic1":"06322619374068904.jpg","pic2":"06322619418752122.jpg"}
+[2020-01-13 20:19:20] /api/mobile/index.php/member_index/realverify_add ( w=member_index&t=realverify_add ) 
+ERR: {"member_id":"100020","truename":"\u5f20\u7ef4","cardid":"433123198705100925","pic1":"06322619374068904.jpg","pic2":"06322619418752122.jpg","iddate":"2034-07-14","state":0,"addtime":1578917960}
+[2020-01-13 20:38:29] /api/mobile/index.php/seller_fund/getwxinfo ( w=seller_fund&t=getwxinfo ) 
+ERR: -url--https://api.weixin.qq.com/sns/jscode2session?appid=wx913c5f6d1a789dc1&secret=a7ea7fe537edbdf19c9d491ff196fd6e&js_code=0031Agl41bGW2Q1SrBh41q9nl411Agld&grant_type=authorization_code
+[2020-01-13 20:38:31] /api/mobile/index.php/seller_fund/getwxinfo ( w=seller_fund&t=getwxinfo ) 
+ERR: ---{"session_key":"bVkpfOoAQ4QGDJ93xSur0Q==","openid":"odKIv5V688o1qNT6ISswkRcNsVZk","unionid":"omMUbxIFJBuah5weO2rCQXfNvf34"}
+[2020-01-13 20:39:56] /api/mobile/index.php/seller_fund/getwxinfo ( w=seller_fund&t=getwxinfo ) 
+ERR: -url--https://api.weixin.qq.com/sns/jscode2session?appid=wx913c5f6d1a789dc1&secret=a7ea7fe537edbdf19c9d491ff196fd6e&js_code=033byRE90jBnlA1r08F903XRE90byREY&grant_type=authorization_code
+[2020-01-13 20:39:57] /api/mobile/index.php/seller_fund/getwxinfo ( w=seller_fund&t=getwxinfo ) 
+ERR: ---{"session_key":"bVkpfOoAQ4QGDJ93xSur0Q==","openid":"odKIv5V688o1qNT6ISswkRcNsVZk","unionid":"omMUbxIFJBuah5weO2rCQXfNvf34"}

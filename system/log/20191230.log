@@ -1,0 +1,6 @@
+[2019-12-30 23:24:03] http://www.fhlego.com/api/mobile/index.php/plat_act/index ( w=plat_act&t=index ) 
+ERR: Db Error: Unknown column 'act_id0' in 'field list'
+SELECT act_id0,act_name,act_image,gc_id,act_price,act_points,act_storage,act_salenum,act_datetime,act_stime,act_etime,act_body,act_state,jh_area_info,jh_address,act_area_info,act_address FROM `shopwt_plat_act` WHERE ( act_state = '1' ) AND ( jh_city_id = '2142' ) ORDER BY act_sort asc,act_id desc LIMIT 0,10  
+[2019-12-30 23:31:35] http://www.fhlego.com/api/mobile/index.php/plat_act/index ( w=plat_act&t=index ) 
+ERR: Db Error: Unknown column 'act_id0' in 'field list'
+SELECT act_id0,act_name,act_image,gc_id,act_price,act_points,act_storage,act_salenum,act_datetime,act_stime,act_etime,act_body,act_state,jh_area_info,jh_address,act_area_info,act_address FROM `shopwt_plat_act` WHERE ( act_state = '1' ) ORDER BY act_sort asc,act_id desc LIMIT 0,10  

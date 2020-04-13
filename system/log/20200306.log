@@ -1,0 +1,4 @@
+[2020-03-06 15:28:45] /api/mobile/index.php/connect/wxlogin ( w=connect&t=wxlogin ) 
+ERR: -url--https://api.weixin.qq.com/sns/jscode2session?appid=wx913c5f6d1a789dc1&secret=a7ea7fe537edbdf19c9d491ff196fd6e&js_code=043wJ7J72rBv8M0M2SK72212J72wJ7JX&grant_type=authorization_code
+[2020-03-06 15:28:46] /api/mobile/index.php/connect/wxlogin ( w=connect&t=wxlogin ) 
+ERR: ---{"session_key":"cWvoJxiDu7csYgbNQoCytA==","openid":"odKIv5b6HKuksGmdZt5ZeYsx-c_c"}

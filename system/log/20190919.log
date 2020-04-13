@@ -1,0 +1,14 @@
+[2019-09-19 20:41:54] /api/mobile/index.php/connect/index ( w=connect&t=index ) 
+ERR: ---{"access_token":"25_J4dP4CZ1ZjP1dHYeiVyCfWhijn1_RGDSvz2aHJ62Gaz5VKPhI9xMFbMPZ3i9KdW5dEjs6qAl4weQgnh4pV1hduVXhoq6UbIpWxY0Of1jLuQ","expires_in":7200,"refresh_token":"25_cDlc5NpeCvgglVO4tMh6XxwYs4vhHdMZwDWKVspAbA-Iy_ruySQHnWDYHX_sZB_t9q5Mrv0Uurqg37y7-XA121JTgve4d85l1briS_fOxeg","openid":"oqSltwF47yQw3rkZj5bXINLwnErI","scope":"snsapi_userinfo","unionid":"omMUbxOAYZGnFi2_PfgmuhMBTOCA"}
+[2019-09-19 20:43:41] /api/mobile/index.php/connect/wxlogin ( w=connect&t=wxlogin ) 
+ERR: -url--https://api.weixin.qq.com/sns/jscode2session?appid=wx913c5f6d1a789dc1&secret=a7ea7fe537edbdf19c9d491ff196fd6e&js_code=043lfYDL0S95e82yIwDL0g9eEL0lfYDt&grant_type=authorization_code
+[2019-09-19 20:43:41] /api/mobile/index.php/connect/wxlogin ( w=connect&t=wxlogin ) 
+ERR: ---{"session_key":"9rN+63p0M4Mp2pPuxPk8bg==","openid":"odKIv5Sb-K-7tOUGYeWRabb5Bzk0","unionid":"omMUbxOAYZGnFi2_PfgmuhMBTOCA"}
+[2019-09-19 20:43:42] /api/mobile/index.php/connect/wxlogin ( w=connect&t=wxlogin ) 
+ERR: -url--https://api.weixin.qq.com/sns/jscode2session?appid=wx913c5f6d1a789dc1&secret=a7ea7fe537edbdf19c9d491ff196fd6e&js_code=023gXw0Q1E5VK31Iph1Q1xyo0Q1gXw09&grant_type=authorization_code
+[2019-09-19 20:43:43] /api/mobile/index.php/connect/wxlogin ( w=connect&t=wxlogin ) 
+ERR: ---{"session_key":"9rN+63p0M4Mp2pPuxPk8bg==","openid":"odKIv5Sb-K-7tOUGYeWRabb5Bzk0","unionid":"omMUbxOAYZGnFi2_PfgmuhMBTOCA"}
+[2019-09-19 20:45:15] /api/mobile/index.php/member_index/realverify_add ( w=member_index&t=realverify_add ) 
+ERR: {"truename":"\u6b27\u9f99\u96ea","cardid":"433123198805250023","iddate":"2020-09-19","pic1":"06222410996297360.jpg","pic2":"06222411052385633.jpg"}
+[2019-09-19 20:45:15] /api/mobile/index.php/member_index/realverify_add ( w=member_index&t=realverify_add ) 
+ERR: {"member_id":"100018","truename":"\u6b27\u9f99\u96ea","cardid":"433123198805250023","pic1":"06222410996297360.jpg","pic2":"06222411052385633.jpg","iddate":"2020-09-19","state":0,"addtime":1568897115}

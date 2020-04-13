@@ -1,0 +1,18 @@
+[2019-12-31 10:53:25] /api/mobile/index.php/member_act/buy_step2 ( w=member_act&t=buy_step2 ) 
+ERR: Db Error: Unknown column 'order_state1' in 'where clause'
+SELECT * FROM `shopwt_plat_act_orders` WHERE ( pay_sn = '550631104678237001' ) AND ( buyer_id = '1' ) AND ( order_state1 = '10' ) LIMIT 1  
+[2019-12-31 10:55:06] /api/mobile/index.php/member_act/buy_step2 ( w=member_act&t=buy_step2 ) 
+ERR: Db Error: Unknown column 'order_state1' in 'where clause'
+SELECT * FROM `shopwt_plat_act_orders` WHERE ( pay_sn = '910631104897516001' ) AND ( buyer_id = '1' ) AND ( order_state1 = '10' ) LIMIT 1  
+[2019-12-31 17:20:49] /api/mobile/index.php/connect/wxlogin ( w=connect&t=wxlogin ) 
+ERR: -url--https://api.weixin.qq.com/sns/jscode2session?appid=wx913c5f6d1a789dc1&secret=a7ea7fe537edbdf19c9d491ff196fd6e&js_code=061W3Mn72h02WP07Hsn72XN2o72W3MnM&grant_type=authorization_code
+[2019-12-31 17:20:52] /api/mobile/index.php/connect/wxlogin ( w=connect&t=wxlogin ) 
+ERR: ---{"session_key":"LuT3jxiO0oZ7KAfjG32AJw==","openid":"odKIv5dFf0cQ2Tekpuy9NXTJhL50"}
+[2019-12-31 20:40:40] /api/mobile/index.php/connect/wxlogin ( w=connect&t=wxlogin ) 
+ERR: -url--https://api.weixin.qq.com/sns/jscode2session?appid=wx913c5f6d1a789dc1&secret=a7ea7fe537edbdf19c9d491ff196fd6e&js_code=023HIrvd0dy7zz18W9xd0rjAvd0HIrvT&grant_type=authorization_code
+[2019-12-31 20:40:42] /api/mobile/index.php/connect/wxlogin ( w=connect&t=wxlogin ) 
+ERR: ---{"session_key":"U3zL3Yoh+ZZR0+W3V2slUQ==","openid":"odKIv5b6HKuksGmdZt5ZeYsx-c_c"}
+[2019-12-31 20:40:48] /api/mobile/index.php/connect/wxlogin ( w=connect&t=wxlogin ) 
+ERR: -url--https://api.weixin.qq.com/sns/jscode2session?appid=wx913c5f6d1a789dc1&secret=a7ea7fe537edbdf19c9d491ff196fd6e&js_code=033HGXb923D98N0bPma921lXb92HGXbg&grant_type=authorization_code
+[2019-12-31 20:40:48] /api/mobile/index.php/connect/wxlogin ( w=connect&t=wxlogin ) 
+ERR: ---{"session_key":"U3zL3Yoh+ZZR0+W3V2slUQ==","openid":"odKIv5b6HKuksGmdZt5ZeYsx-c_c"}

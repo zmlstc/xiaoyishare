@@ -1,0 +1,35 @@
+[2019-09-17 09:05:41] /api/mobile/index.php/connect/wxlogin ( w=connect&t=wxlogin ) 
+ERR: -url--https://api.weixin.qq.com/sns/jscode2session?appid=wx913c5f6d1a789dc1&secret=a7ea7fe537edbdf19c9d491ff196fd6e&js_code=081GBTBK1GIRr20h8NBK1y4QBK1GBTBf&grant_type=authorization_code
+[2019-09-17 09:05:44] /api/mobile/index.php/connect/wxlogin ( w=connect&t=wxlogin ) 
+ERR: ---{"session_key":"u7xrXWBzCS\/7\/2XlRmNxbw==","openid":"odKIv5TSJvn_v9WsO1tBOlDuHnOA"}
+[2019-09-17 11:19:41] http://www.fhlego.com/api/mobile/index.php/index/pglist ( w=index&t=pglist ) 
+ERR: Db Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-8,8' at line 1
+SELECT * FROM `shopwt_points_goods` WHERE ( pgoods_show = '1' ) AND ( pgoods_state = '0' ) AND ( pgoods_commend = '1' ) AND ( pgoods_endtime > '1568690381' ) AND ( city_id = '2107' ) ORDER BY pgoods_sort asc,pgoods_id desc LIMIT -8,8  
+[2019-09-17 12:52:25] /api/mobile/index.php/connect/wxlogin ( w=connect&t=wxlogin ) 
+ERR: -url--https://api.weixin.qq.com/sns/jscode2session?appid=wx913c5f6d1a789dc1&secret=a7ea7fe537edbdf19c9d491ff196fd6e&js_code=001NqrrV1jCMPX0TE8tV1VjorV1Nqrr0&grant_type=authorization_code
+[2019-09-17 12:52:26] /api/mobile/index.php/connect/wxlogin ( w=connect&t=wxlogin ) 
+ERR: ---{"session_key":"572smlndbyMcWQoJlvppEg==","openid":"odKIv5TSJvn_v9WsO1tBOlDuHnOA"}
+[2019-09-17 12:52:40] /api/mobile/index.php/connect/wxlogin ( w=connect&t=wxlogin ) 
+ERR: -url--https://api.weixin.qq.com/sns/jscode2session?appid=wx913c5f6d1a789dc1&secret=a7ea7fe537edbdf19c9d491ff196fd6e&js_code=011dT4Aa23PjRM0vUqAa2RfeAa2dT4A4&grant_type=authorization_code
+[2019-09-17 12:52:41] /api/mobile/index.php/connect/wxlogin ( w=connect&t=wxlogin ) 
+ERR: ---{"session_key":"572smlndbyMcWQoJlvppEg==","openid":"odKIv5TSJvn_v9WsO1tBOlDuHnOA"}
+[2019-09-17 12:56:05] /api/mobile/index.php/member_index/realverify_add ( w=member_index&t=realverify_add ) 
+ERR: {"truename":"\u83c0\u83c0","cardid":"123456789876543210","iddate":"2028-10-01","pic1":"06220401473593990.jpg","pic2":"06220401527184496.jpg"}
+[2019-09-17 12:56:20] /api/mobile/index.php/member_index/realverify_add ( w=member_index&t=realverify_add ) 
+ERR: {"truename":"\u83c0\u83c0","cardid":"433123198210250000","iddate":"2028-10-01","pic1":"06220401473593990.jpg","pic2":"06220401527184496.jpg"}
+[2019-09-17 12:56:34] /api/mobile/index.php/member_index/realverify_add ( w=member_index&t=realverify_add ) 
+ERR: {"truename":"\u77bf\u83c0\u541f","cardid":"433123198210250024","iddate":"2028-10-01","pic1":"06220401473593990.jpg","pic2":"06220401527184496.jpg"}
+[2019-09-17 12:56:34] /api/mobile/index.php/member_index/realverify_add ( w=member_index&t=realverify_add ) 
+ERR: {"member_id":"100014","truename":"\u77bf\u83c0\u541f","cardid":"433123198210250024","pic1":"06220401473593990.jpg","pic2":"06220401527184496.jpg","iddate":"2028-10-01","state":0,"addtime":1568696194}
+[2019-09-17 13:22:12] /api/mobile/index.php/connect/wxlogin ( w=connect&t=wxlogin ) 
+ERR: -url--https://api.weixin.qq.com/sns/jscode2session?appid=wx913c5f6d1a789dc1&secret=a7ea7fe537edbdf19c9d491ff196fd6e&js_code=011HZMp51n72OS1XQfq51p9Wp51HZMpO&grant_type=authorization_code
+[2019-09-17 13:22:14] /api/mobile/index.php/connect/wxlogin ( w=connect&t=wxlogin ) 
+ERR: ---{"session_key":"utwNT9Jd4lQMyf3uQYDV5w==","openid":"odKIv5TSJvn_v9WsO1tBOlDuHnOA"}
+[2019-09-17 13:22:32] /api/mobile/index.php/connect/wxlogin ( w=connect&t=wxlogin ) 
+ERR: -url--https://api.weixin.qq.com/sns/jscode2session?appid=wx913c5f6d1a789dc1&secret=a7ea7fe537edbdf19c9d491ff196fd6e&js_code=033jrKen0ZbNYl1fMNdn0K3oen0jrKeP&grant_type=authorization_code
+[2019-09-17 13:22:33] /api/mobile/index.php/connect/wxlogin ( w=connect&t=wxlogin ) 
+ERR: ---{"session_key":"yoCMQqUbGxNgffJD1gOkXQ==","openid":"odKIv5bQJqRMBY91y5K1U-e4ji9Y","unionid":"omMUbxGmFzFontLSADbCEF7JU-vQ"}
+[2019-09-17 13:26:51] /api/mobile/index.php/member_index/realverify_add ( w=member_index&t=realverify_add ) 
+ERR: {"truename":"\u5434\u6587\u6cfd","cardid":"433123197703290038","iddate":"2027-04-25","pic1":"06220419649211807.png","pic2":"06220419718281428.png"}
+[2019-09-17 13:26:51] /api/mobile/index.php/member_index/realverify_add ( w=member_index&t=realverify_add ) 
+ERR: {"member_id":"100017","truename":"\u5434\u6587\u6cfd","cardid":"433123197703290038","pic1":"06220419649211807.png","pic2":"06220419718281428.png","iddate":"2027-04-25","state":0,"addtime":1568698011}

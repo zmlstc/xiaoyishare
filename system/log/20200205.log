@@ -1,0 +1,8 @@
+[2020-02-05 09:20:51] /api/mobile/index.php/connect/wxlogin ( w=connect&t=wxlogin ) 
+ERR: -url--https://api.weixin.qq.com/sns/jscode2session?appid=wx913c5f6d1a789dc1&secret=a7ea7fe537edbdf19c9d491ff196fd6e&js_code=033qr4602ANEqW0mrD502nY5602qr46z&grant_type=authorization_code
+[2020-02-05 09:20:53] /api/mobile/index.php/connect/wxlogin ( w=connect&t=wxlogin ) 
+ERR: ---{"session_key":"OdXxX6g3IQdVR\/Twr5QWFQ==","openid":"odKIv5bc8r4VLCWRrzpoqxuteASE","unionid":"omMUbxAAenIN2lTaCPpyAvt3-Nn8"}
+[2020-02-05 11:11:02] /api/mobile/index.php/member_index/realverify_add ( w=member_index&t=realverify_add ) 
+ERR: {"truename":"\u970d\u5927\u6210","cardid":"433123198109200030","iddate":"2023-02-05","pic1":"06342162549217772.png","pic2":"06342162575464165.png"}
+[2020-02-05 11:11:02] /api/mobile/index.php/member_index/realverify_add ( w=member_index&t=realverify_add ) 
+ERR: {"member_id":"100021","truename":"\u970d\u5927\u6210","cardid":"433123198109200030","pic1":"06342162549217772.png","pic2":"06342162575464165.png","iddate":"2023-02-05","state":0,"addtime":1580872262}
